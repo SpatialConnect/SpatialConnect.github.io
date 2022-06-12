@@ -71,7 +71,7 @@ All submitted papers will be peer reviewed. We have identified a set of research
 
 * **Paper Submission:** <span>TBD</span>
 * **Notification of Acceptance:** <span>TBD</span>
-* **Camera Ready Paper Due:* <span> TBD </span>
+* **Camera Ready Paper Due:** <span> TBD </span>
 <!-- * **Camera Ready Paper Due:** <span>October 4, 2022</span> -->
 
 All submissions are due at 11:59 PM Pacific Standard Time.
