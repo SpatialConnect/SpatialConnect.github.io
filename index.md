@@ -48,7 +48,7 @@ The workshop welcomes contributions in the area of large scale analytics for spa
 ## Submission Website
 TBD
 
-[comment]: [https://easychair.org/conferences/?conf=bigspatial2020](https://easychair.org/conferences/?conf=bigspatial2020){:target="_blank"}
+<!-- [https://easychair.org/conferences/?conf=bigspatial2020](https://easychair.org/conferences/?conf=bigspatial2020){:target="_blank"} -->
 
 ## Paper Submission
 
@@ -60,7 +60,7 @@ We invite papers discussing novel research and ideas without substantial overlap
 
 Manuscripts should be submitted in PDF format and formatted using the [ACM camera-ready templates](http://www.acm.org/publications/proceedings-template){:target="_blank"}. Submissions are limited to 10 pages. All submissions should clearly present the author information including the names of the authors, the affiliations and the emails. 
 
-[comment]: The papers should be submitted through the [workshop submission system](https://easychair.org/conferences/?conf=bigspatial2020){:target="_blank"}.
+<!-- The papers should be submitted through the [workshop submission system](https://easychair.org/conferences/?conf=bigspatial2020){:target="_blank"}.-->
 
 {: style=" text-align: justify"}
 
@@ -71,7 +71,7 @@ All submitted papers will be peer reviewed. We have identified a set of research
 
 * **Paper Submission:** <span>August 31, 2022</span>
 * **Notification of Acceptance:** <span>September 21, 2022</span>
-[comment]: * **Camera Ready Paper Due:** <span>October 4, 2022</span>
+<!-- * **Camera Ready Paper Due:** <span>October 4, 2022</span> -->
 
 All submissions are due at 11:59 PM Pacific Standard Time.
 
