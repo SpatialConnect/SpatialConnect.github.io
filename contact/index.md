@@ -24,7 +24,6 @@ Email: ashashidharan at esri dot com
 #### Krishna Karthik Gadiraju
 
 Juniper Networks, USA
-
 Email: krishnakartg at juniper dot net
 
 
