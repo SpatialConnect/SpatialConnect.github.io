@@ -21,7 +21,7 @@ description: "This website is for the 9th ACM SIGSPATIAL International BigSpatia
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://bigspatial2020.github.io'
+url: 'https://bigspatial2022.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content

@@ -7,8 +7,8 @@ subheadline: ""
 title: "Organizers"
 teaser: ""
 header:
-   title: "9th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2020)"
-   title2: "November 3, 2020, Seattle, Washington, USA"
+   title: "10th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2022)"
+   title2: "November 1, 2022, Seattle, Washington, USA"
    image_fullwidth: "seattle.jpg"
    permalink: "/organizer/"
 ---
@@ -24,10 +24,6 @@ Web: [https://people.engr.ncsu.edu/rrvatsav/](https://people.engr.ncsu.edu/rrvat
 Email: rrvatsav at ncsu dot edu  
 Phone: +1-919-515-6019  
 
-
-
-## Workshop chairs
-
 #### Varun Chandola
 
 Computer Science and Engineering  
@@ -38,24 +34,18 @@ Web: [https://www.cse.buffalo.edu/~chandola/](https://www.cse.buffalo.edu/~chand
 Email: chandola at buffalo dot edu  
 Phone: +1-716-645-4747  
 
-
+## Workshop chairs
 
 #### Ashwin Shashidharan
 
 Esri, USA  
 Email: ashashidharan at esri dot com
 
+#### Krishna Karthik Gadiraju
+Juniper Networks, USA
+Email: krishnakartg at juniper dot net
 
-
-## Student Coordinator
-
-#### Syed Mohammed Arshad Zaidi
-Computer Science and Engineering  
-University at Buffalo  
-212 Capen Hall  
-Buffalo, NY 14260  
-Web: [https://smazcw3.github.io/](https://smazcw3.github.io/){:target="_blank"}   
-Email: szaidi2 at buffalo dot edu
+[comment]: ## Student Coordinator
 
 
 ## Program Committee

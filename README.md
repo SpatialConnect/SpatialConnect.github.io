@@ -1,4 +1,4 @@
-# bigspatial2020.github.io
- BigSpatial20 Website
+# bigspatial2022.github.io
+ BigSpatial22 Website
 
-This website is for the 9th ACM SIGSPATIAL International BigSpatial workshop to be held on November 3, 2020 in Seattle, Washington, USA.
+This website is for the 10th ACM SIGSPATIAL International BigSpatial workshop in Seattle, Washington, USA.

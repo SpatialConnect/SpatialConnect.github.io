@@ -10,16 +10,16 @@
   url: "/organizer"
   side: left
 
-- title: Program
-  url: "/program"
-  side: left
+# - title: Program
+#   url: "/program"
+#   side: left
 
 - title: Contacts
   url: "/contact"
   side: left
 
-- title: ACM SIGSPATIAL 2020
-  url: "http://sigspatial2020.sigspatial.org/"
+- title: ACM SIGSPATIAL 2022
+  url: "http://sigspatial2022.sigspatial.org/"
   side: left
 
 # - title: Posters
