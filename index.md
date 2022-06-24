@@ -60,7 +60,7 @@ We invite papers discussing novel research and ideas without substantial overlap
 
 Manuscripts should be submitted in PDF format and formatted using the [ACM camera-ready templates](http://www.acm.org/publications/proceedings-template){:target="_blank"}. Submissions are limited to 10 pages. All submissions should clearly present the author information including the names of the authors, the affiliations and the emails. 
 
-<!-- The papers should be submitted through the [workshop submission system](https://easychair.org/conferences/?conf=bigspatial2020){:target="_blank"}.-->
+The papers should be submitted through the [workshop submission system](https://easychair.org/conferences/?conf=bigspatial2022){:target="_blank"}.
 
 {: style=" text-align: justify"}
 
