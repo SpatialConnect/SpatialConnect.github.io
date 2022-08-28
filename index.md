@@ -67,7 +67,7 @@ All submitted papers will be peer reviewed. We have identified a set of research
 
 ## Important Dates
 
-* **Paper Submission:** <span>August 31, 2022</span>
+* **Paper Submission:** <span><s>August 31, 2022</s>September 5, 2022</span>
 * **Notification of Acceptance:** <span>September 21, 2022</span>
 * **Camera Ready Paper Due:** <span>October 4, 2022</span>
 
