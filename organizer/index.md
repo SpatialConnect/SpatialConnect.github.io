@@ -56,7 +56,6 @@ Email: krishnakartg at juniper dot net
  * Durbha Surya, IIT Bombay
  * [Filippi Anthony](https://geography.tamu.edu/people/profiles/faculty/filippianthony.html), Texas A&M University
  * [Wachowicz Monica](http://www.unb.ca/faculty-staff/directory/engineering-geomatics/wachowicz-monica.html){:target="_blank"}, University of New Brunswick
- * Jun Goo, University of Texas Health Science Center at Houston
  * [Wang Fusheng](https://www.cs.stonybrook.edu/people/faculty/FushengWang){:target="_blank"}, Stony Brook University
  * [Kurte Kuldeep](https://www.ornl.gov/staff-profile/kuldeep-r-kurte){:target="_blank"}, ORNL
  * [Croitoru Arie](https://cos.gmu.edu/ggs/people/faculty-staff/arie-croitoru/){:target="_blank"}, George Mason University
@@ -66,7 +65,8 @@ Email: krishnakartg at juniper dot net
  * Chen Zexi, Google Inc
  * Dahshan Mai, University of North Florida
  * Singla Samriddhi, University of California, Riverside
-
+ 
+ <!--Jun Goo, University of Texas Health Science Center at Houston -->
   <!-- [Zhou Xun](https://www.biz.uiowa.edu/faculty/xzhou/), The University of Iowa -->
   <!--[Zhang Jianting](https://www.ccny.cuny.edu/profiles/jianting-zhang){:target="_blank"}, City University of New York -->
   <!-- Mohan Pradeep, SAS Institute Inc. -->
