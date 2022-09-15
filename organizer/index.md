@@ -67,6 +67,6 @@ Email: krishnakartg at juniper dot net
  * Dahshan Mai, University of North Florida
  * Singla Samriddhi, University of California, Riverside
 
-  <!-- [Zhou Xun](https://www.biz.uiowa.edu/faculty/xzhou/), The University of Iowa
-  [Zhang Jianting](https://www.ccny.cuny.edu/profiles/jianting-zhang){:target="_blank"}, City University of New York
-  * Mohan Pradeep, SAS Institute Inc. -->
+  <!-- [Zhou Xun](https://www.biz.uiowa.edu/faculty/xzhou/), The University of Iowa -->
+  <!--[Zhang Jianting](https://www.ccny.cuny.edu/profiles/jianting-zhang){:target="_blank"}, City University of New York -->
+  <!-- Mohan Pradeep, SAS Institute Inc. -->
