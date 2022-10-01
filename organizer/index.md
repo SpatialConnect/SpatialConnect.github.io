@@ -55,7 +55,6 @@ Email: krishnakartg at juniper dot net
  * Raffaeta' Alessandra, Universita' Ca' Foscari Venezia
  * Durbha Surya, IIT Bombay
  * [Filippi Anthony](https://geography.tamu.edu/people/profiles/faculty/filippianthony.html), Texas A&M University
- * [Wachowicz Monica](http://www.unb.ca/faculty-staff/directory/engineering-geomatics/wachowicz-monica.html){:target="_blank"}, University of New Brunswick
  * [Wang Fusheng](https://www.cs.stonybrook.edu/people/faculty/FushengWang){:target="_blank"}, Stony Brook University
  * [Kurte Kuldeep](https://www.ornl.gov/staff-profile/kuldeep-r-kurte){:target="_blank"}, ORNL
  * [Croitoru Arie](https://cos.gmu.edu/ggs/people/faculty-staff/arie-croitoru/){:target="_blank"}, George Mason University
@@ -65,7 +64,7 @@ Email: krishnakartg at juniper dot net
  * Chen Zexi, Google Inc
  * Dahshan Mai, University of North Florida
  * Singla Samriddhi, University of California, Riverside
- * Gurneet Kaur, ESRI
+ * Gurneet Kaur, Esri
  * Xu Teng, Iowa State University
  
  <!--Jun Goo, University of Texas Health Science Center at Houston -->
