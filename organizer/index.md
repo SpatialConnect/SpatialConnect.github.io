@@ -64,8 +64,8 @@ Email: krishnakartg at juniper dot net
  * Chen Zexi, Google Inc
  * Dahshan Mai, University of North Florida
  * Singla Samriddhi, University of California, Riverside
- * Gurneet Kaur, Esri
- * Xu Teng, Iowa State University
+ * Kaur Gurneet, Esri
+ * Teng Xu, Iowa State University
  
  <!--Jun Goo, University of Texas Health Science Center at Houston -->
   <!-- [Zhou Xun](https://www.biz.uiowa.edu/faculty/xzhou/), The University of Iowa -->
