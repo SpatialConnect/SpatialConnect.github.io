@@ -24,7 +24,7 @@ header:
 
 #### Session 1
 
-* `14:15 - 15:15` : *Dr. latifur Khan, Computer Science Dept., The University of Texas at Dallas* -- [**Keynote Talk**]<!--(/program/keynotes/#talk1)  <a target="_blank"  href="https://www.youtube.com/watch?v=1o_YkhNlxXI"><img src="../images/youtube_icon.png" style="max-height:16px;"></a> -->
+* `14:15 - 15:15` : *Dr. Latifur Khan, Computer Science Dept., The University of Texas at Dallas* -- [**Keynote Talk**]<!--(/program/keynotes/#talk1)  <a target="_blank"  href="https://www.youtube.com/watch?v=1o_YkhNlxXI"><img src="../images/youtube_icon.png" style="max-height:16px;"></a> -->
 
 * `15:15 - 15:35` : **AtlasHDF: An Efficient Big Data Framework for GeoAI**   
 *Martin Werner, Hao Li*
