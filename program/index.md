@@ -37,7 +37,7 @@ header:
 
 #### Session 2
 
- * `15:50 - 16:20` : *Dr. Ranga Raju Vatsavai, North Carolina State University*  -- [**Invited Talk**]<!--(/program/keynotes/#talk2) -->
+ * `15:50 - 16:20` : *Dr. Ranga Raju Vatsavai, Computer Science Dept., North Carolina State University*  -- [**Invited Talk**]<!--(/program/keynotes/#talk2) -->
 
 * `16:20 - 16:40` : **GEAR: A Graph Edge Attention Routing Algorithm Solving Combinatorial Optimization Problem with Graph Edge Cost**  
 *Yuhei Senuma, Zhao Wang, Yuusuke Nakano, Jun Ohya*
