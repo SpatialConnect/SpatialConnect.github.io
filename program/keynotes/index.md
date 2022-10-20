@@ -27,7 +27,7 @@ header:
   
 #### Title: Data-Driven Time Series Forecasting for Social Studies Using Scalable Spatio-Temporal Graph Neural Networks
 
-#### Speaker: Latifur Khan    
+#### Speaker: Dr. Latifur Khan    
 ![Latifur Khan](./images/lkhan.JPG)
 
 #### Abstract:    
