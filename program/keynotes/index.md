@@ -28,7 +28,8 @@ header:
 #### Title: Data-Driven Time Series Forecasting for Social Studies Using Scalable Spatio-Temporal Graph Neural Networks
 
 #### Speaker: Dr. Latifur Khan    
-![Latifur Khan](./images/lkhan.JPG)
+<!-- ![Latifur Khan](./images/lkhan.JPG) -->
+<img src="./images/lkhan.JPG" width="200" height="200" />
 
 #### Abstract:    
 Time series forecasting with additional spatial information has attracted a tremendous amount of attention in recent research, due to its importance in various real-world applications on social studies, such as conflict prediction and pandemic forecasting. Conventional machine learning methods either consider temporal dependencies only, or treat spatial and temporal relations as two separate autoregressive models, namely, space-time autoregressive models. Such methods suffer when it comes to long-term forecasting or predictions for large-scale areas, due to the high nonlinearity and complexity of spatio-temporal data. In this talk, we propose to address these challenges using spatio-temporal graph neural networks. 
@@ -48,7 +49,8 @@ Currently, Dr. Khan’s research area focuses on big data management and analyti
 #### Title: Unsupervised Representation Learning for Remote Sensing Big Data
 
 #### Speaker: Dr. Ranga Raju Vatsavai    
-![Dr. Ranga Raju Vatsavai](./images/raju.jpg)
+<img src="./images/raju.jpg" width="200" height="200" />
+<!-- ![Dr. Ranga Raju Vatsavai](./images/raju.jpg) -->
 
 #### Abstract:    
 Remote sensing data is a prime example of spatial big data. NASA recently collected its 10 millionth Landsat image. Coarse-resolution (30 m) Landsat collection itself tops a petabyte, whereas private satellite data producer, Maxar holds more than 125 petabytes of high-resolution multi-spectral imagery. Compared to traditional machine learning approaches designed for coarse resolution, high-resolution images require a bigger spatial context than a pixel to understand the image content. Recent advances in deep learning proved that high-resolution images can be accurately analyzed using image tiles (patches), however, these new methods require both large ground-truth data and computing power. In this presentation, we posit unsupervised representation learning as a framework for analyzing high-resolution remote sensing data. We show their efficacy in reducing the ground truth data as well as computational requirements for analyzing large-scale remote sensing data.
