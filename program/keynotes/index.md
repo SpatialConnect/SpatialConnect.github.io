@@ -46,7 +46,7 @@ Currently, Dr. Khan’s research area focuses on big data management and analyti
 ---------------------------------------
 <a id="talk2"> </a> 
  
-#### Title: Unsupervised Representation Learning for Remote Sensing Big Data
+#### Title: Geospatial AI for Social Good
 
 #### Speaker: Dr. Ranga Raju Vatsavai    
 <img src="./images/raju.jpg" width="200" height="200" />
