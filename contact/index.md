@@ -21,6 +21,11 @@ For general questions about the workshop, please contact any of the following wo
 Esri, USA  
 Email: ashashidharan at esri dot com
 
+### Martin Werner
+
+Technical University of Munich, Germany
+Email: martin.werner@tum.de
+
 #### Krishna Karthik Gadiraju
 
 Juniper Networks, USA <br>
