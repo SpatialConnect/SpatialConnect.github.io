@@ -7,8 +7,8 @@ subheadline: ""
 title: "Organizers"
 teaser: ""
 header:
-   title: "10th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2022)"
-   title2: "November 1, 2022, Seattle, Washington, USA"
+   title: "11th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2023)"
+   title2: "November 13, 2023, Hamburg, Germany"
    image_fullwidth: "seattle.jpg"
    permalink: "/organizer/"
 ---
@@ -41,6 +41,11 @@ Phone: +1-716-645-4747
 Esri, USA  
 Email: ashashidharan at esri dot com
 
+### Martin Werner
+
+Technical University of Munich, Germany
+Email: martin.werner@tum.de
+
 #### Krishna Karthik Gadiraju
 
 Juniper Networks, USA <br>
@@ -66,8 +71,3 @@ Email: krishnakartg at juniper dot net
  * Singla Samriddhi, University of California, Riverside
  * Kaur Gurneet, Esri
  * Teng Xu, Iowa State University
- 
- <!--Jun Goo, University of Texas Health Science Center at Houston -->
-  <!-- [Zhou Xun](https://www.biz.uiowa.edu/faculty/xzhou/), The University of Iowa -->
-  <!--[Zhang Jianting](https://www.ccny.cuny.edu/profiles/jianting-zhang){:target="_blank"}, City University of New York -->
-  <!-- Mohan Pradeep, SAS Institute Inc. -->
