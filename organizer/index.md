@@ -69,5 +69,4 @@ Email: krishnakartg at juniper dot net
  * Chen Zexi, Google Inc
  * Dahshan Mai, University of North Florida
  * Singla Samriddhi, University of California, Riverside
- * Kaur Gurneet, Esri
  * Teng Xu, Iowa State University
