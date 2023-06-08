@@ -9,7 +9,7 @@ teaser: ""
 header:
    title: "11th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2023)"
    title2: "November 13, 2023, Hamburg, Germany"
-   image_fullwidth: "seattle.jpg"
+   image_fullwidth: "hamburg.jpg"
    permalink: "/"
 ---
 
