@@ -4,11 +4,11 @@ layout: page
 # Content
 #
 subheadline: ""
-title: "10th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2022) "
+title: "11th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2023) "
 teaser: ""
 header:
-   title: "10th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2022)"
-   title2: "November 1, 2022, Seattle, Washington, USA"
+   title: "11th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2023)"
+   title2: "November 13, 2023, Hamburg, Germany"
    image_fullwidth: "seattle.jpg"
    permalink: "/"
 ---
@@ -20,7 +20,7 @@ Big data is currently the hottest topic for data researchers and scientists with
 
 {: style=" text-align: justify"}
 
-The **10th workshop on Analytics for Big Geospatial Data** aims to bring together researchers from academia, government and industrial research labs who are working in the area of spatial analytics with an eye towards massive data sizes. The objective of this workshop is to provide a platform for researchers engaged in addressing the big data aspect of spatial and spatio-temporal data analytics to present and discuss their ideas. We invite participants from industry, academia, and government to participate in this event and share, contribute, and discuss the emerging big data challenges in the context of spatial and spatio-temporal data analysis.
+The **11th workshop on Analytics for Big Geospatial Data** aims to bring together researchers from academia, government and industrial research labs who are working in the area of spatial analytics with an eye towards massive data sizes. The objective of this workshop is to provide a platform for researchers engaged in addressing the big data aspect of spatial and spatio-temporal data analytics to present and discuss their ideas. We invite participants from industry, academia, and government to participate in this event and share, contribute, and discuss the emerging big data challenges in the context of spatial and spatio-temporal data analysis.
 {: style=" text-align: justify"}
 
 The main motivation for this workshop stems from the increasing need for a forum to exchange ideas and recent research results, and to facilitate collaboration and dialog between academia, government, and industrial stakeholders.
@@ -46,7 +46,9 @@ The workshop welcomes contributions in the area of large scale analytics for spa
 
 
 ## Submission Website
-[https://easychair.org/conferences/?conf=bigspatial2022](https://easychair.org/conferences/?conf=bigspatial2022){:target="_blank"} 
+
+TBD
+<!-- [https://easychair.org/conferences/?conf=bigspatial2022](https://easychair.org/conferences/?conf=bigspatial2022){:target="_blank"}  -->
 
 ## Paper Submission
 
@@ -58,7 +60,7 @@ We invite papers discussing novel research and ideas without substantial overlap
 
 Manuscripts should be submitted in PDF format and formatted using the [ACM camera-ready templates](http://www.acm.org/publications/proceedings-template){:target="_blank"}. Submissions are limited to 10 pages. All submissions should clearly present the author information including the names of the authors, the affiliations and the emails. 
 
-The papers should be submitted through the [workshop submission system](https://easychair.org/conferences/?conf=bigspatial2022){:target="_blank"}.
+<!-- The papers should be submitted through the [workshop submission system](https://easychair.org/conferences/?conf=bigspatial2022){:target="_blank"}. -->
 
 {: style=" text-align: justify"}
 
@@ -67,9 +69,9 @@ All submitted papers will be peer reviewed. We have identified a set of research
 
 ## Important Dates
 
-* **Paper Submission:** <span><s>September 9, 2022</s></span>
-* **Notification of Acceptance:** <span><s>September 30, 2022</s></span>
-* **Camera Ready Paper Due:** <span>October 10, 2022</span>
+* **Paper Submission:** <span>August 31, 2023</span>
+* **Notification of Acceptance:** <span>September 21, 2022</span>
+* **Camera Ready Paper Due:** <span>TBD</span>
 
 All submissions are due at 11:59 PM Pacific Standard Time.
 
