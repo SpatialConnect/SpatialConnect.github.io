@@ -5,11 +5,16 @@
   class: "network"
   title: "Association for Computing Machinery"
 
-- name: "ACM SIGSPATIAL 2022"
-  url: "http://sigspatial2022.sigspatial.org/"
+- name: "ACM SIGSPATIAL 2023"
+  url: "http://sigspatial2023.sigspatial.org/"
   class: "network"
-  title: "ACM SIGSPATIAL 2022"
+  title: "ACM SIGSPATIAL 2023"
 
+- name: "BigSpatial 2022"
+  url: "https://bigspatial2022.github.io/"
+  class: "network"
+  title: "BigSpatial 2022"
+  
 - name: "BigSpatial 2020"
   url: "https://bigspatial2020.github.io/"
   class: "network"
