@@ -44,7 +44,7 @@ Email: ashashidharan at esri dot com
 #### Martin Werner
 
 Technical University of Munich, Germany <br>
-Email: martin.werner@tum.de
+Email: martin.werner at tum dot de
 
 #### Krishna Karthik Gadiraju
 
