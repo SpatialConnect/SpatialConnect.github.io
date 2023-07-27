@@ -70,7 +70,7 @@ All submitted papers will be peer reviewed. We have identified a set of research
 
 * **Paper Submission:** <span>August 31, 2023</span>
 * **Notification of Acceptance:** <span>September 21, 2023</span>
-* **Camera Ready Paper Due:** <span>TBD</span>
+* **Camera Ready Paper Due:** <span>September 28, 2023</span>
 
 All submissions are due at 11:59 PM Pacific Standard Time.
 
