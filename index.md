@@ -68,11 +68,13 @@ All submitted papers will be peer reviewed. We have identified a set of research
 
 ## Important Dates
 
-* **Paper Submission:** <span>August 31, 2023</span>
-* **Notification of Acceptance:** <span>September 21, 2023</span>
-* **Camera Ready Paper Due:** <span>September 28, 2023</span>
+* **Paper Submission:** <span>~August 31, 2023~ September 15, 2023</span>
+* **Notification of Acceptance:** <span>~September 21, 2023~ October 6, 2023</span>
+* **Camera Ready Paper Due:** <span>~September 28, 2023~ October 20, 2023</span>
 
 All submissions are due at 11:59 PM Pacific Standard Time.
+
+** Authors are requested to be keep track of visa deadlines. Please contact the SIGSPATIAL organizers for any visa related questions **
 
 
 
