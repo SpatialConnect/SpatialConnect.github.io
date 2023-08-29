@@ -68,9 +68,9 @@ All submitted papers will be peer reviewed. We have identified a set of research
 
 ## Important Dates
 
-* **Paper Submission:** <span>~August 31, 2023~ September 15, 2023</span>
-* **Notification of Acceptance:** <span>~September 21, 2023~ October 6, 2023</span>
-* **Camera Ready Paper Due:** <span>~September 28, 2023~ October 20, 2023</span>
+* **Paper Submission:** <span><s>August 31, 2023</s>September 15, 2023</span>
+* **Notification of Acceptance:** <span><s>September 21, 2023</s>October 6, 2023</span>
+* **Camera Ready Paper Due:** <span><s>September 28, 2023</s>October 20, 2023</span>
 
 All submissions are due at 11:59 PM Pacific Standard Time.
 
