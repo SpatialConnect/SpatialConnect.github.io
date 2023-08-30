@@ -60,7 +60,7 @@ Email: krishnakartg at juniper dot net
  * Durbha Surya, IIT Bombay
  * [Filippi Anthony](https://geography.tamu.edu/people/profiles/faculty/filippianthony.html), Texas A&M University
  * [Wang Fusheng](https://www.cs.stonybrook.edu/people/faculty/FushengWang){:target="_blank"}, Stony Brook University
- * [Kurte Kuldeep](https://www.ornl.gov/staff-profile/kuldeep-r-kurte){:target="_blank"}, ORNL
+ <!--* [Kurte Kuldeep](https://www.ornl.gov/staff-profile/kuldeep-r-kurte){:target="_blank"}, ORNL -->
  <!--* [Croitoru Arie](https://cos.gmu.edu/ggs/people/faculty-staff/arie-croitoru/){:target="_blank"}, George Mason University -->
  * Eftelioglu Emre, Amazon 
  * [Ramachandra Bharathkumar](https://tnybny.github.io/){:target="_blank"}, Geopipe Inc
