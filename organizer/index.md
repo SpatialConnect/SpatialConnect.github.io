@@ -65,7 +65,7 @@ Email: krishnakartg at juniper dot net
  * Eftelioglu Emre, Amazon 
  * [Ramachandra Bharathkumar](https://tnybny.github.io/){:target="_blank"}, Geopipe Inc
  * Chaudhary Mandar, eBay Inc
-  <!--* Chen Zexi, Tiktok -->
+ * Chen Zexi, Tiktok
  * Dahshan Mai, University of North Florida
  <!--* Singla Samriddhi, University of California, Riverside-->
  * Teng Xu, Iowa State University
