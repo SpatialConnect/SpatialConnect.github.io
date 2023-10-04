@@ -56,7 +56,7 @@ Email: krishnakartg at juniper dot net
 
 ## Program Committee
  * [Sorokine Alexandre](https://web.ornl.gov/sci/gist/staff_bios/detailed_sorokine.shtml){:target="_blank"}, ORNL
- [Meger Nicolas](https://www.listic.univ-smb.fr/en/presentation-en/members/lecturers/nicolas-meger-en/){:target="_blank"}, Université de Savoie - LISTIC laboratory
+ * [Meger Nicolas](https://www.listic.univ-smb.fr/en/presentation-en/members/lecturers/nicolas-meger-en/){:target="_blank"}, Université de Savoie - LISTIC laboratory
  * Durbha Surya, IIT Bombay
  * [Filippi Anthony](https://geography.tamu.edu/people/profiles/faculty/filippianthony.html), Texas A&M University
  * [Wang Fusheng](https://www.cs.stonybrook.edu/people/faculty/FushengWang){:target="_blank"}, Stony Brook University
