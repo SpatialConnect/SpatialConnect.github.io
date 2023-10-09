@@ -69,5 +69,5 @@ Email: krishnakartg at juniper dot net
  * Dahshan Mai, University of North Florida
  <!--* Singla Samriddhi, University of California, Riverside-->
  * Teng Xu, Esri
- * Chunxue Xu, Oregon State University
+ * Xu Chunxue, Oregon State University
  <!--* Seokyong Hong, CJ Logistics-->
