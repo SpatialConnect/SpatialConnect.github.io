@@ -5,64 +5,49 @@ layout: page_custom
 #
 subheadline: ""
 title: "Program"
-teaser: "Tuesday, November 1, 2022 - Seattle, Washington, USA"
+teaser: "Monday, November 13, 2023 - Hamburg, Germany"
 header:
-   title: "10th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2022)"
-   title2: "November 1, 2022, Seattle, Washington, USA"
-   image_fullwidth: "seattle.jpg"
+   title: "11th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2022)"
+   title2: "November 13, 2023, Hamburg, Germany"
+   image_fullwidth: "hamburg.jpg"
    permalink: "/program/"
 ---
-
-**All times are in PST**
 
 
 ---------------------------------------
 
-#### 14:00-14:15 : Opening Remarks -- [Foreword](docs/frontmatter.pdf)
+#### 13:00-13:10 : Opening Remarks -- [Foreword](docs/frontmatter.pdf)
 
 ---------------------------------------
 
 #### Session 1
 
-* `14:15 - 15:15` : *Dr. Latifur Khan, Computer Science Dept., The University of Texas at Dallas* -- [**Keynote Talk**](/program/keynotes/#talk1)  
+* `13:10 - 14:10` : Keynote
 
-* `15:15 - 15:35` : **AtlasHDF: An Efficient Big Data Framework for GeoAI**   
-*Martin Werner, Hao Li*
+* `14:10 - 14:35` : **Q-learning Based Simulation Tool for Studying Effectiveness of Dynamic Application of Fertilizer on Crop Productivity**   
+  *Zhuocheng Mei, Ranga Vatsavai, Rada Chirkova*
+
+* `14:35 - 15:00` : **Processing of Spatial-Keyword Range Queries in Apache Spark**
+  *Aggelos Karabinos, Panagiotis Tampakis, Christos Doulkeridis, Akrivi Vlachou*
 
 ---------------------------------------
 
-#### 15:35 - 15:50 : Coffee Break
+#### 15:00 - 15:30 : Coffee Break
 
 ---------------------------------------
 
 #### Session 2
 
- * `15:50 - 16:20` : *Dr. Ranga Raju Vatsavai, Computer Science Dept., North Carolina State University*  -- [**Invited Talk**](/program/keynotes/#talk2)
+ * `15:30 - 15:55` : **GLIN:A (G)eneric (L)earned (In)dexing Mechanism for Complex Geometries**
+   *Congying Wang, Jia Yu and Zhuoyue Zhao*
 
-* `16:20 - 16:40` : **GEAR: A Graph Edge Attention Routing Algorithm Solving Combinatorial Optimization Problem with Graph Edge Cost**  
-*Yuhei Senuma, Zhao Wang, Yuusuke Nakano, Jun Ohya*
-
-* `16:40 - 17:00` : **RING-Net: Road Inference from GPS Trajectories using a Deep Segmentation Network**   
-*Emre Eftelioglu, Ravi Garg, Vaibhav Kango, Chintan Gohil, Amber Roy Chowdhury*
+* `15:55 - 16:20` : **A Highly Efficient and Effective Attribute Learning Framework for Road Graph from Aerial Imagery and GPS**  
+*Yang He, Emre Eftelioglu, Mohamed Moustafa and Amber Roy Chowdhury*
 
 
 ---------------------------------------
 
-#### 17:00 - 17:10 : Break
-
----------------------------------------
-
-#### Session 3
-
-* `17:10 - 17:30` : **Real-Time Spatial Registration for 3D Human Atlas**  
-*Lu Chen, Dejun Teng, Tian Zhu, Jun	Kong, Bruce	Herr, Andreas	Bueckle, Katy Börner, Fusheng	Wang*
-
-* `17:30 - 17:50` : **CSCD: Towards Spatially Resolving the Heterogeneous Landscape of MxIF Oncology Data**  
-*Yan Li, Majid Farhadloo, Santhoshi Krishnan, Yiqun Xie, Timothy L Frankel, Shashi Shekhar, Arvind Rao*
-
----------------------------------------
-
-#### 17:50 - 18:00 : Closing Remarks
+#### 16:20 - 16:30 : Closing Remarks
 
 ---------------------------------------
 
