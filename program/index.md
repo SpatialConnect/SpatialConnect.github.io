@@ -27,8 +27,8 @@ header:
 * `14:10 - 14:35` : **Q-learning Based Simulation Tool for Studying Effectiveness of Dynamic Application of Fertilizer on Crop Productivity**   
   *Zhuocheng Mei, Ranga Vatsavai, Rada Chirkova*
 
-* `14:35 - 15:00` : **Processing of Spatial-Keyword Range Queries in Apache Spark**
-  *Aggelos Karabinos, Panagiotis Tampakis, Christos Doulkeridis, Akrivi Vlachou*
+* `14:35 - 15:00` : **A Highly Efficient and Effective Attribute Learning Framework for Road Graph from Aerial Imagery and GPS**
+ *Yang He, Emre Eftelioglu, Mohamed Moustafa and Amber Roy Chowdhury*
 
 ---------------------------------------
 
@@ -41,8 +41,8 @@ header:
  * `15:30 - 15:55` : **GLIN:A (G)eneric (L)earned (In)dexing Mechanism for Complex Geometries**
    *Congying Wang, Jia Yu and Zhuoyue Zhao*
 
-* `15:55 - 16:20` : **A Highly Efficient and Effective Attribute Learning Framework for Road Graph from Aerial Imagery and GPS**  
-*Yang He, Emre Eftelioglu, Mohamed Moustafa and Amber Roy Chowdhury*
+* `15:55 - 16:20` : **Processing of Spatial-Keyword Range Queries in Apache Spark** 
+*Aggelos Karabinos, Panagiotis Tampakis, Christos Doulkeridis, Akrivi Vlachou*
 
 
 ---------------------------------------
