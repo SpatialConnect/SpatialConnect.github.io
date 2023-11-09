@@ -28,7 +28,7 @@ header:
 #### Title: Digital Twins for Smart Cities
 
 #### Speaker: Dr. Youness Dehbi    
-<img src="./images/youness_dehbi.jpb" width="200" height="200" />
+<img src="./images/youness_dehbi.jpg" width="200" height="200" />
 
 #### Abstract:    
 In the era of smart cities, 3D semantic city models are a hot topic. The automatic acquisition of such models is usually facing two challenges: coping with huge and noisy data and dealing with sparse 
