@@ -22,7 +22,7 @@ header:
 
 #### Session 1
 
-* `13:10 - 14:10` : **Keynote** Dr. Youness Dehbi, HafenCity University Hamburg, Germany -- [**Keynote Talk**](/program/keynotes/#talk1)  
+* `13:10 - 14:10` : **Keynote** Dr. Youness Dehbi, HafenCity University, Hamburg, Germany -- [**Keynote Talk**](/program/keynotes/#talk1)  
 
 * `14:10 - 14:35` : **Q-learning Based Simulation Tool for Studying Effectiveness of Dynamic Application of Fertilizer on Crop Productivity**   
   *Zhuocheng Mei, Ranga Vatsavai, Rada Chirkova*
