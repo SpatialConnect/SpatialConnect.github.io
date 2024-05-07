@@ -8,20 +8,20 @@
 #                                                 /____/
 #
 # Title of your website
-title: "BigSpatial 2023"
+title: "BigSpatial 2024"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "11th ACM SIGSPATIAL International Workshop on Analytics for Big GeoSpatial Data (BigSpatial 2023)"
+slogan: "12th ACM SIGSPATIAL International Workshop on Analytics for Big GeoSpatial Data (BigSpatial 2024)"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "This website is for the 11th ACM SIGSPATIAL International BigSpatial workshop to be held on November 13, 2022 in Hamburg, Germany"
+description: "This website is for the 12th ACM SIGSPATIAL International BigSpatial workshop to be held on October 29, 2024 in Atlanta, Georgia, USA"
 
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://bigspatial2023.github.io'
+url: 'https://bigspatial2024.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
