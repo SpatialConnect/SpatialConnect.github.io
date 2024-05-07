@@ -4,11 +4,11 @@ layout: page
 # Content
 #
 subheadline: ""
-title: "11th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2023) "
+title: "12th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2024) "
 teaser: ""
 header:
-   title: "11th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2023)"
-   title2: "November 13, 2023, Hamburg, Germany"
+   title: "12th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2024)"
+   title2: "October 29, 2024, Atlanta, Georgia, USA"
    image_fullwidth: "hamburg.jpg"
    permalink: "/"
 ---
@@ -16,7 +16,7 @@ header:
 
 ## Call for Papers
 
-Big data is currently the hottest topic for data researchers and scientists with huge interests from the industry and federal agencies alike, as evident in the recent White House initiative on "Big data research and development". Within the realms of big data, spatial and spatio-temporal data is one of fastest growing types of data and poses a massive challenge to researchers who deal with analyzing such data. With advances in remote sensors, sensor networks, and the proliferation of location sensing devices in daily life activities and common business practices, the generation of disparate, dynamic, and geographically distributed spatiotemporal data has exploded in recent years. In addition, significant progress in ground, air- and space-borne sensor technologies has led to an unprecedented access to earth science data for scientists from different disciplines, interested in studying the complementary nature of different parameters. The immediate availability of airbone sensor technologies such as UAVs has now allowed for real-time analysis in areas such as disaster management. The volume, variety and velocity at which this data is collected present unique challenges in both their analysis and management. 
+Big data is currently the hottest topic for data researchers and scientists with huge interests from the industry and federal agencies alike, as evident in the recent White House initiative on "Big data research and development". Within the realms of big data, spatial and spatio-temporal data is one of fastest growing types of data and poses a massive challenge to researchers who deal with analyzing such data. With advances in remote sensors, sensor networks, and the proliferation of location sensing devices in daily life activities and common business practices, the generation of disparate, dynamic, and geographically distributed spatiotemporal data has exploded in recent years. In addition, significant progress in ground, air and space-borne sensor technologies has led to an unprecedented access to earth science data for scientists from different disciplines, interested in studying the complementary nature of different parameters. The immediate availability of airbone sensor technologies such as UAVs has now allowed for real-time analysis in areas such as disaster management. The volume, variety and velocity at which this data is collected present unique challenges in both their analysis and management. 
 
 {: style=" text-align: justify"}
 
@@ -47,7 +47,9 @@ The workshop welcomes contributions in the area of large scale analytics for spa
 
 ## Submission Website
 
-[https://easychair.org/conferences/?conf=bigspatial2023](https://easychair.org/conferences/?conf=bigspatial2023){:target="_blank"} 
+TBD
+
+<!--[https://easychair.org/conferences/?conf=bigspatial2023](https://easychair.org/conferences/?conf=bigspatial2023){:target="_blank"} -->
 
 ## Paper Submission
 
@@ -68,9 +70,9 @@ All submitted papers will be peer reviewed. We have identified a set of research
 
 ## Important Dates
 
-* **Paper Submission:** <span><s>August 31, 2023</s> September 15, 2023</span>
-* **Notification of Acceptance:** <span><s>September 21, 2023</s> October 11, 2023</span>
-* **Camera Ready Paper Due:** <span><s>September 28, 2023</s> October 20, 2023</span>
+* **Paper Submission:** <span>TBD</span>
+* **Notification of Acceptance:** <span>TBD</span>
+* **Camera Ready Paper Due:** <span>TBD</span>
 
 All submissions are due at 11:59 PM Pacific Standard Time.
 
