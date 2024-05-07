@@ -1,4 +1,4 @@
-# bigspatial2023.github.io
- BigSpatial23 Website
+# bigspatial2024.github.io
+ BigSpatial24 Website
 
-This website is for the 11th ACM SIGSPATIAL International BigSpatial workshop in Hamburg, Germany.
+This website is for the 12th ACM SIGSPATIAL International BigSpatial workshop in Atlanta, Georgia, USA.
