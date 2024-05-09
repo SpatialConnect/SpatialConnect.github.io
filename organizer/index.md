@@ -34,7 +34,7 @@ Web: [https://www.cse.buffalo.edu/~chandola/](https://www.cse.buffalo.edu/~chand
 Email: chandola at buffalo dot edu  
 Phone: +1-716-645-4747  
 
-## Workshop chairs
+## Workshop chair
 
 #### Ashwin Shashidharan
 
@@ -45,6 +45,8 @@ Email: ashashidharan at esri dot com
 
 Technical University of Munich, Germany <br>
 Email: martin.werner at tum dot de -->
+
+## Workshop Co-Chair
 
 #### Krishna Karthik Gadiraju
 
