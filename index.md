@@ -20,7 +20,7 @@ Big data is currently the hottest topic for data researchers and scientists with
 
 {: style=" text-align: justify"}
 
-The **11th workshop on Analytics for Big Geospatial Data** aims to bring together researchers from academia, government and industrial research labs who are working in the area of spatial analytics with an eye towards massive data sizes. The objective of this workshop is to provide a platform for researchers engaged in addressing the big data aspect of spatial and spatio-temporal data analytics to present and discuss their ideas. We invite participants from industry, academia, and government to participate in this event and share, contribute, and discuss the emerging big data challenges in the context of spatial and spatio-temporal data analysis.
+The **12th workshop on Analytics for Big Geospatial Data** aims to bring together researchers from academia, government and industrial research labs who are working in the area of spatial analytics with an eye towards massive data sizes. The objective of this workshop is to provide a platform for researchers engaged in addressing the big data aspect of spatial and spatio-temporal data analytics to present and discuss their ideas. We invite participants from industry, academia, and government to participate in this event and share, contribute, and discuss the emerging big data challenges in the context of spatial and spatio-temporal data analysis.
 {: style=" text-align: justify"}
 
 The main motivation for this workshop stems from the increasing need for a forum to exchange ideas and recent research results, and to facilitate collaboration and dialog between academia, government, and industrial stakeholders.
