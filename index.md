@@ -9,7 +9,7 @@ teaser: ""
 header:
    title: "12th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2024)"
    title2: "October 29, 2024, Atlanta, Georgia, USA"
-   image_fullwidth: "hamburg.jpg"
+   image_fullwidth: "z14.jpg"
    permalink: "/"
 ---
 
