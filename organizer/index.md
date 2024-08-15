@@ -60,7 +60,7 @@ Email: krishnakartg at juniper dot net
  <!--* [Kurte Kuldeep](https://www.ornl.gov/staff-profile/kuldeep-r-kurte){:target="_blank"}, ORNL -->
  <!--* [Croitoru Arie](https://cos.gmu.edu/ggs/people/faculty-staff/arie-croitoru/){:target="_blank"}, George Mason University -->
  * Eftelioglu Emre, Amazon 
- * [Ramachandra Bharathkumar](https://tnybny.github.io/){:target="_blank"}, Geopipe Inc
+ * [Ramachandra Bharathkumar](https://tnybny.github.io/){:target="_blank"}, Stack AV
  * Chaudhary Mandar, eBay Inc
  * Chen Zexi, Tiktok
  * Dahshan Mai, University of North Florida
