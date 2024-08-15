@@ -7,9 +7,9 @@ subheadline: ""
 title: "Organizers"
 teaser: ""
 header:
-   title: "11th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2023)"
-   title2: "November 13, 2023, Hamburg, Germany"
-   image_fullwidth: "hamburg.jpg"
+   title: "12th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2024)"
+   title2: "October 29, 2024, Atlanta, Georgia, USA"
+   image_fullwidth: "z14.jpg"
    permalink: "/organizer/"
 ---
 ## Steering Committee
@@ -40,11 +40,6 @@ Phone: +1-716-645-4747
 
 Esri, USA  
 Email: ashashidharan at esri dot com
-
-<!--#### Martin Werner
-
-Technical University of Munich, Germany <br>
-Email: martin.werner at tum dot de -->
 
 ## Workshop Co-Chair
 
