@@ -68,8 +68,8 @@ All submitted papers will be peer reviewed. We have identified a set of research
 
 ## Important Dates
 
-* **Paper Submission:** <span><s>August 31, 2024</s>September 4, 2024</span>
-* **Notification of Acceptance:** <span> September 20, 2024</span>
+* **Paper Submission:** <span><s>August 31, 2024</s> September 4, 2024</span>
+* **Notification of Acceptance:** <span> <s>September 20, 2024</s> September 27, 2024</span>
 <!--* **Camera Ready Paper Due:** <span>TBD</span>-->
 
 All submissions are due at 11:59 PM Pacific Standard Time.
