@@ -5,49 +5,51 @@ layout: page_custom
 #
 subheadline: ""
 title: "Program"
-teaser: "Monday, November 13, 2023 - Hamburg, Germany"
+teaser: "Tuesday, October 29, 2024 - Atlanta, Georgia"
 header:
-   title: "11th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2022)"
-   title2: "November 13, 2023, Hamburg, Germany"
-   image_fullwidth: "hamburg.jpg"
+   title: "12th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2024)"
+   title2: "Tuesday, October 29, 2024 - Atlanta, Georgia"
+   image_fullwidth: "z14.jpg"
    permalink: "/program/"
 ---
 
 
 ---------------------------------------
 
-#### 13:00-13:10 : Opening Remarks -- [Foreword](docs/Frontmatter_BigSpatial23.pdf)
+#### 13:00-13:10 : Opening Remarks -- [Foreword](docs/Frontmatter_BigSpatial24.pdf)
 
 ---------------------------------------
 
 #### Session 1
 
-* `13:10 - 14:10` : Dr. Youness Dehbi, HafenCity University, Hamburg, Germany -- [**Keynote Talk**](/program/keynotes/#talk1)  
+* `13:10 - 14:10` : Dr. Dalton Lunga, Oakridge National Laboratory, Tennesee, USA -- [**Keynote Talk**](/program/keynotes/#talk1)  
 
-* `14:10 - 14:35` : **Q-learning Based Simulation Tool for Studying Effectiveness of Dynamic Application of Fertilizer on Crop Productivity**   
-  *Zhuocheng Mei, Ranga Vatsavai, Rada Chirkova*
+* `14:10 - 14:40` : **PC-LMT: The Point Cloud Log Merge Tree for the Helena Point Cloud Database**   
+  *Balthazar Teuscher and Martin Werner*
 
-* `14:35 - 15:00` : **A Highly Efficient and Effective Attribute Learning Framework for Road Graph from Aerial Imagery and GPS**
- *Yang He, Emre Eftelioglu, Mohamed Moustafa and Amber Roy Chowdhury*
+* `14:40 - 15:10` : **From Data to Application: Harnessing Big Spatial Data and Spatially Explicit Machine learning Model for Landslide Susceptibility Prediction and Mapping**
+ *Khant Min Naing, Victoria Grace Ann and Tim Seong Kam*
 
 ---------------------------------------
 
-#### 15:00 - 15:30 : Coffee Break
+#### 15:10 - 15:30 : Coffee Break
 
 ---------------------------------------
 
 #### Session 2
 
- * `15:30 - 15:55` : **GLIN:A (G)eneric (L)earned (In)dexing Mechanism for Complex Geometries**
-   *Congying Wang, Jia Yu and Zhuoyue Zhao*
+ * `15:30 - 16:30` : Dr. B Aditya Prakash, Georgia Institute of Technology, Georgia, USA -- [**Keynote Talk**](/program/keynotes/#talk2)
+  
+ * `16:30 - 17:00` : **DynoViz: Dynamic Visualization of Large Scale Satellite Data**
+   *Zhuocheng Shang, Suryaa Charan Shivakumar and Ahmed Eldawy*
 
-* `15:55 - 16:20` : **Processing of Spatial-Keyword Range Queries in Apache Spark** 
-*Aggelos Karabinos, Panagiotis Tampakis, Christos Doulkeridis, Akrivi Vlachou*
+* `17:00 - 17:30` : **Geospatial Foundation Models: Recent Advances and Applications** 
+*Ranga Raju Vatsavai*
 
 
 ---------------------------------------
 
-#### 16:20 - 16:30 : Closing Remarks
+#### 17:30 - 17:35 : Closing Remarks
 
 ---------------------------------------
 
