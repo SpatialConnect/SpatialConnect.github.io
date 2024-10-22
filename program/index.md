@@ -22,7 +22,7 @@ header:
 
 #### Session 1
 
-* `13:10 - 14:10` : Dr. Dalton Lunga, Oakridge National Laboratory, Tennesee, USA -- [**Keynote Talk**](/program/keynotes/#talk1)  
+* `13:10 - 14:10` : Dr. Dalton Lunga, Oakridge National Laboratory, Tennessee, USA -- [**Keynote Talk**](/program/keynotes/#talk1)  
 
 * `14:10 - 14:40` : **PC-LMT: The Point Cloud Log Merge Tree for the Helena Point Cloud Database**   
   *Balthazar Teuscher and Martin Werner*
