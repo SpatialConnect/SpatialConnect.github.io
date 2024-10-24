@@ -25,7 +25,7 @@ header:
 * `13:10 - 14:10` : Dr. Dalton Lunga, Oakridge National Laboratory, Tennessee, USA -- [**Keynote Talk**](/program/keynotes/#talk1)  
 
 * `14:10 - 14:40` : **PC-LMT: The Point Cloud Log Merge Tree for the Helena Point Cloud Database**   
-  *Balthazar Teuscher and Martin Werner*
+  *Balthasar Teuscher and Martin Werner*
 
 * `14:40 - 15:10` : **From Data to Application: Harnessing Big Spatial Data and Spatially Explicit Machine learning Model for Landslide Susceptibility Prediction and Mapping**
  *Khant Min Naing, Victoria Grace Ann and Tim Seong Kam*
