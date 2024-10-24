@@ -56,7 +56,7 @@ Email: krishnakartg at juniper dot net
  * [Meger Nicolas](https://www.listic.univ-smb.fr/en/presentation-en/members/lecturers/nicolas-meger-en/){:target="_blank"}, Université de Savoie - LISTIC laboratory
  * Durbha Surya, IIT Bombay
  * [Filippi Anthony](https://geography.tamu.edu/people/profiles/faculty/filippianthony.html), Texas A&M University
- * [Wang Fusheng](https://www.cs.stonybrook.edu/people/faculty/FushengWang){:target="_blank"}, Stony Brook University
+ <!--* [Wang Fusheng](https://www.cs.stonybrook.edu/people/faculty/FushengWang){:target="_blank"}, Stony Brook University -->
  <!--* [Kurte Kuldeep](https://www.ornl.gov/staff-profile/kuldeep-r-kurte){:target="_blank"}, ORNL -->
  <!--* [Croitoru Arie](https://cos.gmu.edu/ggs/people/faculty-staff/arie-croitoru/){:target="_blank"}, George Mason University -->
  * Eftelioglu Emre, Amazon 
@@ -64,7 +64,8 @@ Email: krishnakartg at juniper dot net
  * Chaudhary Mandar, eBay Inc
  * Chen Zexi, Tiktok
  * Dahshan Mai, University of North Florida
- <!--* Singla Samriddhi, University of California, Riverside-->
+ * Singla Samriddhi, Meta Platforms Inc.
+ * Teng Dejun, Shandong University
  * Teng Xu, Esri
  * Xu Chunxue, Oregon State University
  <!--* Seokyong Hong, CJ Logistics-->
