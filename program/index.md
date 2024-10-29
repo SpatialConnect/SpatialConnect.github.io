@@ -13,7 +13,7 @@ header:
    permalink: "/program/"
 ---
 
-
+#### Venue: Conference C,  Georgia Tech Hotel and Conference Center 
 ---------------------------------------
 
 #### 13:00-13:10 : Opening Remarks -- [Foreword](docs/Frontmatter_BigSpatial24.pdf)
