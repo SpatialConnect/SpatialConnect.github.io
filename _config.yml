@@ -8,25 +8,25 @@
 #                                                 /____/
 #
 # Title of your website
-title: "BigSpatial 2024"
+title: "SpatialConnect 2025"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "12th ACM SIGSPATIAL International Workshop on Analytics for Big GeoSpatial Data (BigSpatial 2024)"
+slogan: "1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "This website is for the 12th ACM SIGSPATIAL International BigSpatial workshop to be held on October 29, 2024 in Atlanta, Georgia, USA"
+description: "SpatialConnect 2025 explores cutting-edge research in Spatial Intelligence for Smart and Connected Communities at ACM SIGSPATIAL 2025"
 
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://bigspatial2024.github.io'
-baseurl: ''
+url: 'https://kelvin23-utd.github.io'
+baseurl: '/bigspatial2025_bakcup.github.io'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-#improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+#improve_content: https://github.com/kelvin23-utd/bigspatial2025_bakcup.github.io/edit/master
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -34,7 +34,7 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: '/images/'
+urlimg: '/bigspatial2025_bakcup.github.io/images/'
 
 
 # Logo size is 600x80 pixels
@@ -64,6 +64,7 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
+    - t1.py
 
 
 # The language setting is used in /includes/header.html for html-settings
@@ -99,7 +100,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: spatialconnect     # Default author for pages
   -
     scope:
       path: ""
@@ -108,7 +109,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: spatialconnect     # Default author for posts
 
 
 
@@ -142,7 +143,7 @@ defaults:
 #     / /_  / __ `/ | / / / ___/ __ \/ __ \/ ___/
 #    / __/ / /_/ /| |/ / / /__/ /_/ / / / (__  )
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
-#                                                 More information » https://mathiasbynens.be/notes/touch-icons
+#                                                 More information › https://mathiasbynens.be/notes/touch-icons
 
 favicon-32x32:                          "favicon-32x32.png"
 #touch-icon-192x192:                     "touch-icon-192x192.png"
@@ -167,10 +168,10 @@ favicon-32x32:                          "favicon-32x32.png"
 # og_image:                         ""
 # og_locale:                        "en_EN"
 # og_type:                          "website"
-# og_title:                         ""
-# og_description:                   ""
-# og_url:                           ""
-# og_site_name:                     ""
+# og_title:                         "SpatialConnect 2025"
+# og_description:                   "1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities"
+# og_url:                           "https://kelvin23-utd.github.io/bigspatial2025_bakcup.github.io/"
+# og_site_name:                     "SpatialConnect 2025"
 
 
 #      _____            _       __   __  ___         ___
@@ -233,5 +234,31 @@ sass:
 # used in _includes/footer_scripts
 
 # tawkto_embed_uri:
+
+# Workshop specific settings
+workshop:
+  year: 2025
+  name: "SpatialConnect"
+  full_name: "Spatial Intelligence for Smart and Connected Communities"
+  date: "TBD, 2025"
+  location: "TBD"
+  submission_deadline: "TBD"
+  notification_date: "TBD"
+  camera_ready_deadline: "TBD"
+
+# Organizers
+organizers:
+  - name: "Guang Wang"
+    affiliation: "Florida State University"
+    email: "guang.wang@fsu.edu"
+  - name: "Xinyue Ye" 
+    affiliation: "Texas A&M University"
+    email: "xinyue.ye@tamu.edu"
+  - name: "Yu Yang"
+    affiliation: "Lehigh University" 
+    email: "yuyang@lehigh.edu"
+  - name: "Yi Ding"
+    affiliation: "University of Texas at Dallas"
+    email: "yi.ding@utdallas.edu"
 
 theme: jekyll-theme-cayman
