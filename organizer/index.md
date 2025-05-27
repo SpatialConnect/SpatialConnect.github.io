@@ -36,13 +36,14 @@ Dr. Xinyue Ye is a Professor at Texas A&M University specializing in urban analy
 
 #### Yu Yang
 **Lehigh University, USA**  
-Department of Civil and Environmental Engineering  
-1 West Packer Avenue  
+Department of Computer Science and Engineering  
+113 Research Drive  
+Lehigh Mountaintop Campus  
 Bethlehem, PA 18015  
-Web: [TBD - Personal website]  
+Web: https://www.yyang.site  
 Email: yuyang at lehigh dot edu  
 
-Dr. Yu Yang is an Associate Professor at Lehigh University with expertise in spatial intelligence, community resilience, and transportation systems. His research integrates spatial computing with transportation engineering to address community mobility challenges. He has significant experience in interdisciplinary research combining engineering, computer science, and urban planning.
+Dr. Yu Yang is an Assistant Professor in the Department of Computer Science and Engineering at Lehigh University. His research focuses on spatial intelligence, community resilience, and transportation systems. He integrates spatial computing and transportation engineering to address challenges in community mobility. His work spans multiple disciplines, including engineering, computer science, and urban planning.
 
 #### Yi Ding
 **University of Texas at Dallas, USA**  
