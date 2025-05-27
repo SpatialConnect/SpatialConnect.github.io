@@ -1,4 +1,4 @@
-# bigspatial2024.github.io
- BigSpatial24 Website
+# SpatialConnect2025.github.io
+SpatialConnect 2025 Website
 
-This website is for the 12th ACM SIGSPATIAL International BigSpatial workshop in Atlanta, Georgia, USA.
+This website is for the 1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities.

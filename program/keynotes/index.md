@@ -5,10 +5,10 @@ layout: page_custom
 #
 subheadline: ""
 title: "Keynotes"
-teaser: "Tuesday, October 29, 2024 - Atlanta, USA"
+teaser: "TBD, 2025"
 header:
-   title: "12th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2023)"
-   title2: "Tuesday, October 29, 2024 - Atlanta, USA"
+   title: "1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities"
+   title2: "TBD, 2025"
    image_fullwidth: "z14.jpg"
    permalink: "/program/keynotes"
 ---
