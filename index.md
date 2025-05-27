@@ -9,7 +9,7 @@ teaser: ""
 header:
    title: "1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities"
    title2: "TBD, 2025 (Half-day afternoon workshop)"
-   image_fullwidth: "z14.jpg"
+   image_fullwidth: "Minneapolis2025.jpg"
    permalink: "/"
 ---
 
