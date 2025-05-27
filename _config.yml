@@ -21,12 +21,12 @@ description: "SpatialConnect 2025 explores cutting-edge research in Spatial Inte
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://spatialconnect2025.github.io'
-baseurl: ''
+url: 'http://spatialconnect.github.io'
+baseurl: '/2025'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-#improve_content: https://github.com/kelvin23-utd/bigspatial2025_bakcup.github.io/edit/master
+#improve_content: https://github.com/spatialconnect/spatialconnect.github.io/edit/master/2025
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -34,7 +34,7 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: '/images/'
+urlimg: '/2025/images/'
 
 
 # Logo size is 600x80 pixels
