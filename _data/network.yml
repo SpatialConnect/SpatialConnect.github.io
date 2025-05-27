@@ -5,42 +5,7 @@
   class: "network"
   title: "Association for Computing Machinery"
 
-- name: "ACM SIGSPATIAL 2023"
-  url: "http://sigspatial2023.sigspatial.org/"
+- name: "ACM SIGSPATIAL 2025"
+  url: "https://sigspatial2025.sigspatial.org/"
   class: "network"
-  title: "ACM SIGSPATIAL 2023"
-
-- name: "BigSpatial 2022"
-  url: "https://bigspatial2022.github.io/"
-  class: "network"
-  title: "BigSpatial 2022"
-  
-- name: "BigSpatial 2020"
-  url: "https://bigspatial2020.github.io/"
-  class: "network"
-  title: "BigSpatial 2020"
-
-- name: "BigSpatial 2019"
-  url: "https://bigspatial2019.github.io/"
-  class: "network"
-  title: "BigSpatial 2019"
-  
-- name: "BigSpatial 2018"
-  url: "https://bigspatial-2018.github.io/"
-  class: "network"
-  title: "BigSpatial 2018"
-  
-- name: "BigSpatial 2017"
-  url: "https://cse.buffalo.edu/~chandola/workshops/bigspatial-2017/"
-  class: "network"
-  title: "BigSpatial 2017"
-
-- name: "BigSpatial 2016"
-  url: "https://cse.buffalo.edu/~chandola/workshops/bigspatial-2016/"
-  class: "network"
-  title: "BigSpatial 2016"
-
-- name: "BigSpatial 2015"
-  url: "https://cse.buffalo.edu/~chandola/workshops/bigspatial-2015/"
-  class: "network"
-  title: "BigSpatial 2015"
+  title: "ACM SIGSPATIAL 2025"
