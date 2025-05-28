@@ -3,19 +3,19 @@
 #
 
 - title: Home
-  url: "/"
+  url: "/2025/"
   side: left
 
 - title: Organizers
-  url: "/organizer"
+  url: "/2025/organizer/"
   side: left
 
 - title: Program
-  url: "/program"
+  url: "/2025/program/"
   side: left
 
 - title: Contacts
-  url: "/contact"
+  url: "/2025/contact/"
   side: left
 
 - title: ACM SIGSPATIAL 2025
