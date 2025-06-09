@@ -16,7 +16,7 @@ header:
 
 ## Workshop Overview
 
-SpatialConnect 2025 is dedicated to exploring cutting-edge research and applications in **Spatial Intelligence** aimed at shaping **Smart and Connected Communities (S&CC)**. The workshop will focus on how spatial data, AI, and human-centered design can be integrated to address community-scale challenges such as mobility equity, transportation optimization, energy efficiency, economic development, climate resilience, disaster response, and public health. We aim to forge new pathways for researchers, practitioners, and policymakers from academia, industry, and government to work together to enhance community resilience, promote sustainable growth, and create transformative, equitable urban experiences.
+SpatialConnect 2025 is dedicated to exploring cutting-edge research and applications in **Spatial Intelligence** aimed at shaping **Smart and Connected Communities (S&CC)**. The workshop will focus on how spatial data, AI, and human-centered design can be integrated to address community-scale challenges such as mobility equity, transportation optimization, energy efficiency, economic development, climate resilience, disaster response, and public health. We aim to forge new pathways for researchers, practitioners, and policymakers from academia, industry, and government to work together to enhance community resilience, promote sustainable growth, and create transformative, equitable urban experiences. 
 
 {: style=" text-align: justify"}
 
