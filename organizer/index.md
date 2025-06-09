@@ -8,7 +8,7 @@ title: "Organizers"
 teaser: ""
 header:
    title: "1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities"
-   title2: "SpatialConnect 2025 - November 3, 2025"
+   title2: "SpatialConnect 2025 - TBD, 2025"
    image_fullwidth: "Minneapolis2025.jpg"
    permalink: "/organizer/"
 ---
@@ -40,7 +40,7 @@ Department of Computer Science and Engineering
 113 Research Drive  
 Lehigh Mountaintop Campus  
 Bethlehem, PA 18015  
-Web: <https://www.yyang.site>  
+Web: https://www.yyang.site  
 Email: yuyang at lehigh dot edu  
 
 Dr. Yu Yang is an Assistant Professor in the Department of Computer Science and Engineering at Lehigh University. His research focuses on spatial intelligence, community resilience, and transportation systems. He integrates spatial computing and transportation engineering to address challenges in community mobility. His work spans multiple disciplines, including engineering, computer science, and urban planning.
@@ -103,12 +103,11 @@ We have made intentional efforts to reach out to individuals from underrepresent
 Our organizing team brings together complementary expertise in spatial computing, urban analytics, transportation systems, and community engagement. We are united by a shared vision of advancing spatial intelligence research that directly benefits communities and addresses real-world societal challenges.
 
 The workshop organizers have extensive experience in:
-
-* NSF Smart and Connected Communities research
-* Interdisciplinary collaboration across computer science, engineering, and social sciences  
-* Community-engaged research and participatory approaches
-* Industry-academia partnerships
-* International conference and workshop organization
-* Diversity, equity, and inclusion initiatives in STEM
+- NSF Smart and Connected Communities research
+- Interdisciplinary collaboration across computer science, engineering, and social sciences  
+- Community-engaged research and participatory approaches
+- Industry-academia partnerships
+- International conference and workshop organization
+- Diversity, equity, and inclusion initiatives in STEM
 
 We look forward to creating an inclusive and innovative forum for researchers, practitioners, and policymakers working at the intersection of spatial intelligence and smart communities.

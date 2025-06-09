@@ -8,7 +8,7 @@ title: "Contacts"
 teaser: ""
 header:
    title: "1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities"
-   title2: "SpatialConnect 2025 - November 3, 2025"
+   title2: "SpatialConnect 2025 - TBD, 2025"
    image_fullwidth: "Minneapolis2025.jpg"
    permalink: "/contact/"
 ---
