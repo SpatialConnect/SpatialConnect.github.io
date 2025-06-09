@@ -8,7 +8,7 @@ title: "1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Sm
 teaser: ""
 header:
    title: "1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities"
-   title2: "TBD, 2025 (Half-day afternoon workshop)"
+   title2: "November 3, 2025 (Half-day afternoon workshop)"
    image_fullwidth: "Minneapolis2025.jpg"
    permalink: "/"
 ---
@@ -123,7 +123,7 @@ All submitted papers will be peer reviewed. We have identified a set of research
 * **Paper Submission:** TBD, 2025
 * **Notification of Acceptance:** TBD, 2025
 * **Camera Ready Paper Due:** TBD, 2025
-* **Workshop Date:** TBD, 2025
+* **Workshop Date:** November 3, 2025
 
 All submissions are due at 11:59 PM Pacific Standard Time.
 

@@ -5,10 +5,10 @@ layout: page_custom
 #
 subheadline: ""
 title: "Keynotes"
-teaser: "TBD, 2025"
+teaser: "November 3, 2025"
 header:
    title: "1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities"
-   title2: "TBD, 2025"
+   title2: "November 3, 2025"
    image_fullwidth: "Minneapolis2025.jpg"
    permalink: "/program/keynotes"
 ---

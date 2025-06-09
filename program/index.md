@@ -5,10 +5,10 @@ layout: page_custom
 #
 subheadline: ""
 title: "Program"
-teaser: "Half-day Afternoon Workshop - TBD, 2025"
+teaser: "Half-day Afternoon Workshop - November 3, 2025"
 header:
    title: "1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities"
-   title2: "SpatialConnect 2025 - TBD, 2025"
+   title2: "SpatialConnect 2025 - November 3, 2025"
    image_fullwidth: "Minneapolis2025.jpg"
    permalink: "/program/"
 ---
@@ -137,7 +137,7 @@ Winners will be selected by the program committee based on:
 * **Paper Submission Deadline:** TBD, 2025
 * **Notification of Acceptance:** TBD, 2025  
 * **Camera-Ready Deadline:** TBD, 2025
-* **Workshop Date:** TBD, 2025
+* **Workshop Date:** November 3, 2025
 
 ## Submission Guidelines
 
