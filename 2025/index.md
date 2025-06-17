@@ -3,13 +3,13 @@ layout: page
 title: "1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities (SpatialConnect 2025)"
 header:
    title: "1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities"
-   title2: "TBD, 2025 (Half-day afternoon workshop)"
+   title2: "November 3, 2025 (Half-day afternoon workshop)"
    image_fullwidth: "Minneapolis2025.jpg"
 ---
 
 ## Workshop Overview
 
-SpatialConnect 2025 is dedicated to exploring cutting-edge research and applications in **Spatial Intelligence** aimed at shaping **Smart and Connected Communities (S&CC)**. The workshop will focus on how spatial data, AI, and human-centered design can be integrated to address community-scale challenges such as mobility equity, transportation optimization, energy efficiency, economic development, climate resilience, disaster response, and public health.
+SpatialConnect 2025 is dedicated to exploring cutting-edge research and applications in **Spatial Intelligence** aimed at shaping **Smart and Connected Communities (S&CC)**. The workshop focuses on use-inspired, community-engaged research that addresses real-world challenges identified facing local communities through collaboration with local governments, industry, and other key stakeholders. The goal is to advance computational geospatial science to deliver actionable solutions that strengthen public services and infrastructure. We invite submissions that showcase how research problems are identified through direct stakeholder engagement or data-driven analysis of specific regions. Successful papers will demonstrate how computational tools have been applied to improve decision-making, operational efficiency, or resource allocation. Contributions may include insights gained from fieldwork, coordination with public agencies, or partnerships with local institutions.
 
 ## Workshop Format
 
@@ -38,7 +38,7 @@ We invite papers discussing novel research and applications in spatial intellige
 * **Paper Submission:** TBD, 2025
 * **Notification of Acceptance:** TBD, 2025
 * **Camera Ready Paper Due:** TBD, 2025
-* **Workshop Date:** TBD, 2025
+* **Workshop Date:** November 3, 2025
 
 ## Organizing Committee
 
