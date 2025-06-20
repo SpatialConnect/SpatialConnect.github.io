@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities (SpatialConnect 2025)"
+title: "SpatialConnect 2025: First Workshop on Spatial Intelligence for Smart and Connected Communities"
 header:
-   title: "1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities"
+   title: "SpatialConnect 2025: First Workshop on Spatial Intelligence for Smart and Connected Communities"
    title2: "November 3, 2025 (Half-day afternoon workshop)"
    image_fullwidth: "Minneapolis2025.jpg"
 ---
@@ -21,7 +21,9 @@ SpatialConnect 2025 is dedicated to exploring cutting-edge research and applicat
 
 ## Call for Papers
 
-The workshop seeks high-quality short (4 pages) papers that have not been published in other academic outlets and are not concurrently under peer review. Once accepted, at least one author is required to register for the workshop and the ACM SIGSPATIAL conference, as well as attend the workshop to present the accepted work which will then appear in the ACM Digital Library. As SpatialConnect papers appear in the ACM SIGSPATIAL proceedings we follow the same submission process.
+The workshop seeks high-quality papers that have not been published in other academic outlets and are not concurrently under peer review. Papers are limited to 6 pages(excluding references). Submissions that do not follow the page limit requirements will be desk-rejected without technical reviews.
+
+Once accepted, at least one author is required to register for the workshop and the ACM SIGSPATIAL conference, as well as attend the workshop to present the accepted work which will then appear in the ACM Digital Library. As SpatialConnect papers appear in the ACM SIGSPATIAL proceedings we follow the same submission process.
 
 ## Topics (but not limited to)
 
@@ -53,10 +55,11 @@ Accepted SpatialConnect’25 papers will appear in the ACM SIGSPATIAL’25 Proce
 
 ## Important Dates
 
-* **Paper Submission:** August 9, 2025
-* **Notification of Acceptance:** September 26, 2025
-* **Camera Ready Paper Due:** October 10, 2025
+* **Paper Submission:** August 26, 2025 (11:59PM (AOE))
+* **Notification of Accept/Reject:** September 26, 2025 (11:59PM (AOE))
+* **Camera Ready Paper Due:** October 10, 2025 (11:59PM (AOE))
 * **Workshop Date:** November 3, 2025
+* **Submission Site:** <a href = "https://easychair.org/conferences?conf=spatialconnect2025">https://easychair.org/conferences?conf=spatialconnect2025</a>
 
 ## Organizing Committee
 
