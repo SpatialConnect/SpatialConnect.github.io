@@ -25,3 +25,20 @@ yuyang@lehigh.edu
 #### **Yi Ding**
 University of Texas at Dallas  
 yi.ding@utdallas.edu
+
+## Technical Program Committee
+
+#### **Brian Krupp** 
+Case Western Reserve University
+
+#### **Shenhao Wang**
+University of Florida
+
+#### **Dingyi	Zhuang**
+Massachusetts Institute of Technology
+
+#### **Zhiqing Hong**
+Rutgers University
+
+#### **Shuxin Zhong**
+Hong Kong University of Science and Technology (Guangzhou)  
