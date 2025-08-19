@@ -63,9 +63,9 @@ Accepted SpatialConnect’25 papers will appear in the ACM SIGSPATIAL’25 Proce
 
 ## Important Dates
 
-* **Paper Submission:** August 26, 2025 (11:59PM (AOE))
-* **Notification of Accept/Reject:** September 26, 2025 (11:59PM (AOE))
-* **Camera Ready Paper Due:** October 10, 2025 (11:59PM (AOE))
+* **Paper Submission:** September 20, 2025 (11:59PM (AOE))
+* **Notification of Accept/Reject:** October 10, 2025 (11:59PM (AOE))
+* **Camera Ready Paper Due:** October 17, 2025 (11:59PM (AOE))
 * **Workshop Date:** November 3, 2025
 * **Submission Site:** <a href = "https://easychair.org/conferences?conf=spatialconnect2025">https://easychair.org/conferences?conf=spatialconnect2025</a>
 
