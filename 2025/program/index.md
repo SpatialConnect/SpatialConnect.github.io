@@ -14,7 +14,7 @@ header:
 
 **Date:** November 3, 2025  
 <!-- **Time:** Half-day Afternoon Workshop   -->
-**Time:** 8：00 AM - 12:30 PM
+**Time:** 8:00 AM - 12:30 PM
 
 **Location:** TBD
 
