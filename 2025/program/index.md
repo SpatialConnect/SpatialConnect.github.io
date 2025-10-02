@@ -14,12 +14,10 @@ header:
 
 **Date:** November 3, 2025  
 <!-- **Time:** Half-day Afternoon Workshop   -->
-**Time:** 
+**Time:** 8：00 AM - 12:30 PM
 **Location:** TBD
 
-### Program Schedule (Tentative)
-
-**Please wait for further announcement. Thank you!**
+### Program Schedule
 
 <!-- | Time | Session |
 |------|---------|
@@ -30,6 +28,16 @@ header:
 | 3:15 PM - 3:30 PM | **Coffee Break** |
 | 3:30 PM - 4:30 PM | **Technical Session 2** |
 | 4:30 PM - 4:45 PM | **Awards & Closing** | -->
+
+| Time          | Session                          |
+|---------------|----------------------------------|
+| 8:00 AM - 8:10 AM   | **Opening**                      |
+| 8:10 AM - 9:50 AM   | **Session 1 (Short Papers)** <br> Each 8 minutes |
+| 9:50 AM - 10:05 AM  | **Session 2 (Long Papers)** <br> Each 15 minutes |
+| 10:05 AM - 10:15 AM | **Break**                        |
+| 10:15 AM - 11:05 AM | **Keynote**                      |
+| 11:05 AM - 12:20 PM | **Session 3 (Long Papers)** <br> Each 15 minutes |
+| 12:20 PM - 12:30 PM | **Awards and Closing**           |
 
 ## Keynote Speaker
 
