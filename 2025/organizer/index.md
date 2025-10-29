@@ -42,3 +42,33 @@ Rutgers University
 
 #### **Shuxin Zhong**
 Hong Kong University of Science and Technology (Guangzhou)  
+
+#### **Lin Jiang**
+Florida State University
+
+#### **Dahai Yu** 
+Florida State University
+
+#### **Rongchao Xu** 
+Florida State University
+
+#### **Heng Tan** 
+Lehigh University
+
+#### **Hua Yan** 
+Lehigh University
+
+#### **Xiyang Hu** 
+Lehigh University
+
+#### **Zhanhong Cheng** 
+University of Florida
+
+#### **Xiao Yan**
+University of Texas at Dallas
+
+#### **Tong Liu** 
+Central South University
+
+#### **Pei Zeng** 
+LexisNexis
