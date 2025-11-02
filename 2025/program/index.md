@@ -36,7 +36,20 @@ header:
 
 **Keynote Speaker:** Prof. Yanjie Fu
 
----
+### Title
+**Can AI be the Copilot of Urban Operation and Design for Shaping Tomorrow’s Cities?**
+
+### Abstract
+As cities face rapid urbanization and the pressing need for sustainability, there is an urgent demand for advanced strategies in better land utilization, resource optimization, infrastructure development, improved equity, data-driven policymaking, as well as the better understanding of complex interdependencies between physical and virtual spaces. This talk will delve into the latest AI technologies for urban planning, and discuss major research thrusts in AI for urban planning from the geographic, human-centric, system operation, social, economic dimensions.
+
+### Short Bio
+Dr. Yanjie Fu is an associate professor in the School of Computing and AI at the Arizona State University. He received his Ph.D. degree from the Rutgers University in 2016, the B.E. degree from the University of Science and Technology of China (USTC), and the M.E. degree from the Chinese Academy of Sciences (CAS).  His teaching and research have been recognized by: 1) several junior faculty awards, e.g., US NSF CAREER (2021); 2) several best paper (runner-up, finalist) awards in KDD, ICDM, SIGSpatial 3) several community and industrial recognitions, e.g., 2025 2024 Stanford Elsevier World’s Top 2% Scientists; 4) several university-level awards like ASU Fulton Engineering Top 5% Teaching Recognition Award, Reach the Stars Award. His research involves two major efforts: 1) on Data for AI (D4AI), how can the structure knowledge of data guide AI? His lab has contributed projects including: D4AI-spatial, D4AI-timeseries, D4AI-causal outliers. 2) on AI for data (AI4D), how can AI augment, reprogram, and knowledgize data? Several contributed projects include AI4D-RL, AI4D-GenAI, AI4D-LLM. His recent focuses are space-time intelligence, data-centric AI, sim2decision. He also explores emerging topics on multimodal reasoning, LLM and agentic AI with his students. He currently serves as an Associate Editor of ACM Transactions on Knowledge Discovery from Data and an Associate Editor of ACM AI Letters. He is committed to data science education. Many of his graduated Ph.D. students have joined academia as tenure-track faculty members.
+
+
+### Headshot
+[Dr. Yanjie Fu – Arizona State University](https://www.public.asu.edu/~yanjiefu/)
+
+<!-- ---
 title: "Can AI be the Copilot of Urban Operation and Design for Shaping Tomorrow’s Cities?"
 ---
 
@@ -63,7 +76,7 @@ His recent focuses include **space-time intelligence**, **data-centric AI**, and
 Dr. Fu currently serves as an **Associate Editor** for *ACM Transactions on Knowledge Discovery from Data* and *ACM AI Letters*. He is deeply committed to data science education, and many of his Ph.D. graduates have become tenure-track faculty members.
 
 ### Headshot
-[Dr. Yanjie Fu – Arizona State University](https://www.public.asu.edu/~yanjiefu/)
+[Dr. Yanjie Fu – Arizona State University](https://www.public.asu.edu/~yanjiefu/) -->
 
 ## Awards
 
