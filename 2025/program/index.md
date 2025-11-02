@@ -33,8 +33,7 @@ header:
 
 
 ## Keynote Speaker
-
-**Keynote Speaker:** Prof. Yanjie Fu
+**Prof. Yanjie Fu** 
 
 ### Title
 **Can AI be the Copilot of Urban Operation and Design for Shaping Tomorrow’s Cities?**
