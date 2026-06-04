@@ -3,23 +3,23 @@
 #
 
 - title: Home
-  url: "/2025/"
+  url: "/2026/"
   side: left
 
 - title: Organizers
-  url: "/2025/organizer/"
+  url: "/2026/organizer/"
   side: left
 
 - title: Program
-  url: "/2025/program/"
+  url: "/2026/program/"
   side: left
 
 - title: Contacts
-  url: "/2025/contact/"
+  url: "/2026/contact/"
   side: left
 
-- title: ACM SIGSPATIAL 2025
-  url: "https://sigspatial2025.sigspatial.org/"
+- title: ACM SIGSPATIAL 2026
+  url: "https://sigspatial2026.sigspatial.org/"
   side: left
 
 # - title: Posters

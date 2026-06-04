@@ -1,16 +1,16 @@
 ---
 layout: page
-title: "SpatialConnect 2025: First Workshop on Spatial Intelligence for Smart and Connected Communities"
+title: "SpatialConnect 2026: Second Workshop on Spatial Intelligence for Smart and Connected Communities"
 header:
-   title: "SpatialConnect 2025: First Workshop on Spatial Intelligence for Smart and Connected Communities"
-   title2: "November 3, 2025"
-   image_fullwidth: "Minneapolis2025.jpg"
+   title: "SpatialConnect 2026: Second Workshop on Spatial Intelligence for Smart and Connected Communities"
+   title2: "TBD, 2026"
+   image_fullwidth: "TBD"
    logo: "acmsigspatial-logo.jpg"
 ---
 
 ## Workshop Overview
 
-SpatialConnect 2025 is dedicated to exploring cutting-edge research and applications in **Spatial Intelligence** aimed at shaping **Smart and Connected Communities (S&CC)**. The workshop focuses on use-inspired, community-engaged research that addresses real-world challenges identified facing local communities through collaboration with local governments, industry, and other key stakeholders. The goal is to advance computational geospatial science to deliver actionable solutions that strengthen public services and infrastructure. We invite submissions that showcase how research problems are identified through direct stakeholder engagement or data-driven analysis of specific regions. High-quality papers should demonstrate how computational tools have been applied to improve decision-making, operational efficiency, or resource allocation. Contributions may include insights gained from fieldwork, coordination with public agencies, or partnerships with local institutions.
+SpatialConnect 2026 is dedicated to exploring cutting-edge research and applications in **Spatial Intelligence** aimed at shaping **Smart and Connected Communities (S&CC)**. The workshop focuses on use-inspired, community-engaged research that addresses real-world challenges identified facing local communities through collaboration with local governments, industry, and other key stakeholders. The goal is to advance computational geospatial science to deliver actionable solutions that strengthen public services and infrastructure. We invite submissions that showcase how research problems are identified through direct stakeholder engagement or data-driven analysis of specific regions. High-quality papers should demonstrate how computational tools have been applied to improve decision-making, operational efficiency, or resource allocation. Contributions may include insights gained from fieldwork, coordination with public agencies, or partnerships with local institutions.
 
 ## Workshop Format
 
@@ -59,17 +59,17 @@ Once accepted, at least one author is required to register for the workshop and 
 
 ## Paper Format
 
-Accepted SpatialConnect’25 papers will appear in the ACM SIGSPATIAL’25 Proceedings. Therefore, we follow the same formatting requirements as ACM SIGSPATIAL’25 which can be found at <a href="https://sigspatial2025.sigspatial.org/">https://sigspatial2025.sigspatial.org/</a>. Manuscripts should be submitted in PDF format and formatted using the ACM camera-ready templates available at <a href="https://www.acm.org/publications/proceedings-template">ACM camera-ready templates</a>. SIGSPATIAL uses the Conference Proceedings Primary Article template with two-column format. Alterations to the template, especially to gain more space, will be grounds for administrative rejection without further technical review. Submissions to ACM SIGSPATIAL are single-blind – i.e., the names and affiliations of the authors should be listed in the submitted version. The author list is considered to be final after the submission deadline and no changes to the author list are allowed for accepted papers.
+Accepted SpatialConnect’26 papers will appear in the ACM SIGSPATIAL’26 Proceedings. Therefore, we follow the same formatting requirements as ACM SIGSPATIAL’26 which can be found at <a href="https://sigspatial2025.sigspatial.org/">https://sigspatial2025.sigspatial.org/</a>. Manuscripts should be submitted in PDF format and formatted using the ACM camera-ready templates available at <a href="https://www.acm.org/publications/proceedings-template">ACM camera-ready templates</a>. SIGSPATIAL uses the Conference Proceedings Primary Article template with two-column format. Alterations to the template, especially to gain more space, will be grounds for administrative rejection without further technical review. Submissions to ACM SIGSPATIAL are single-blind – i.e., the names and affiliations of the authors should be listed in the submitted version. The author list is considered to be final after the submission deadline and no changes to the author list are allowed for accepted papers.
 
 ## Important Dates
 
-* **Paper Submission:** ~~August 26, 2025 (11:59PM (AOE))~~ September 20, 2025 (11:59PM (AOE))
-* **Notification of Accept/Reject:** September 26, 2025 (11:59PM (AOE))
+* **Paper Submission:** TBD
+* **Notification of Accept/Reject:** TBD
 <!-- October 10, 2025 (11:59PM (AOE)) -->
-* **Camera Ready Paper Due:** October 10, 2025 (11:59PM (AOE))
+* **Camera Ready Paper Due:** TBD
 <!-- October 17, 2025 (11:59PM (AOE)) -->
-* **Workshop Date:** November 3, 2025
-* **Submission Site:** <a href = "https://easychair.org/conferences?conf=spatialconnect2025">https://easychair.org/conferences?conf=spatialconnect2025</a>
+* **Workshop Date:** TBD
+* **Submission Site:** <a href = "https://easychair.org/conferences?conf=spatialconnect2026">https://easychair.org/conferences?conf=spatialconnect2026</a>
 
 ## Organizing Committee
 
