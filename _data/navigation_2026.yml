@@ -1,0 +1,26 @@
+#
+#   Navigation for the 2026 edition  ›  links live under /2026/
+#   Selected automatically by _includes/_navigation.html based on the page's year.
+#   NOTE: 2026 content is a template copy of 2025 — the content owner should
+#   update titles/links (e.g. the external SIGSPATIAL link) when real details exist.
+#
+
+- title: Home
+  url: "/2026/"
+  side: left
+
+- title: Organizers
+  url: "/2026/organizer/"
+  side: left
+
+- title: Program
+  url: "/2026/program/"
+  side: left
+
+- title: Contacts
+  url: "/2026/contact/"
+  side: left
+
+- title: ACM SIGSPATIAL 2026
+  url: "https://www.sigspatial.org/"
+  side: left

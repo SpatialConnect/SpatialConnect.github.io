@@ -65,6 +65,8 @@ exclude:
     - README.md
     - INSTALL.md
     - t1.py
+    - docs
+    - CLAUDE.md
 
 
 # The language setting is used in /includes/header.html for html-settings

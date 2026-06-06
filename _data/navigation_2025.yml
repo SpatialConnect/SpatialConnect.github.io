@@ -1,0 +1,24 @@
+#
+#   Navigation for the 2025 edition  ›  links live under /2025/
+#   Selected automatically by _includes/_navigation.html based on the page's year.
+#
+
+- title: Home
+  url: "/2025/"
+  side: left
+
+- title: Organizers
+  url: "/2025/organizer/"
+  side: left
+
+- title: Program
+  url: "/2025/program/"
+  side: left
+
+- title: Contacts
+  url: "/2025/contact/"
+  side: left
+
+- title: ACM SIGSPATIAL 2025
+  url: "https://sigspatial2025.sigspatial.org/"
+  side: left

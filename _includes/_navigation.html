@@ -1,4 +1,15 @@
 
+{% comment %}
+  Year-aware navigation. Each edition lives in its own folder (/2025/, /2026/, ...).
+  Derive the year from the first path segment of page.url and load the matching
+  _data/navigation_<year>.yml. Falls back to the latest edition's menu.
+{% endcomment %}
+{% assign url_parts = page.url | split: '/' %}
+{% assign nav_year = url_parts[1] %}
+{% assign nav_key = 'navigation_' | append: nav_year %}
+{% assign nav = site.data[nav_key] %}
+{% if nav == nil %}{% assign nav = site.data.navigation_2026 %}{% endif %}
+
 <div id="navigation" class="sticky">
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
@@ -20,7 +31,7 @@
 
 {% endcomment %}
       <ul class="right">
-        {% for link in site.data.navigation %}
+        {% for link in nav %}
 
               {% if link.url contains 'http' %}
                 {% assign domain = '' %}
@@ -74,7 +85,7 @@
 
 {% endcomment %}
       <ul class="left">
-        {% for link in site.data.navigation %}
+        {% for link in nav %}
 
               {% if link.url contains 'http' %}
                 {% assign domain = '' %}
