@@ -35,7 +35,9 @@ TBD
 
 ## Keynote Speaker
 TBD
-<!-- **Prof. Yanjie Fu** 
+
+<!-- 
+**Prof. Yanjie Fu** 
 
 ### Title
 **Can AI be the Copilot of Urban Operation and Design for Shaping Tomorrow’s Cities?**
@@ -48,36 +50,8 @@ Dr. Yanjie Fu is an associate professor in the School of Computing and AI at the
 
 
 ### Headshot
-[Dr. Yanjie Fu – Arizona State University](https://www.public.asu.edu/~yanjiefu/) -->
-
-<!-- ---
-title: "Can AI be the Copilot of Urban Operation and Design for Shaping Tomorrow’s Cities?"
----
-
-### Abstract
-As cities face rapid urbanization and the pressing need for sustainability, there is an urgent demand for advanced strategies in better land utilization, resource optimization, infrastructure development, improved equity, data-driven policymaking, as well as the better understanding of complex interdependencies between physical and virtual spaces. This talk will delve into the latest AI technologies for urban planning, and discuss major research thrusts in AI for urban planning from the geographic, human-centric, system operation, social, and economic dimensions.
-
-### Speaker Bio
-**Dr. Yanjie Fu** is an Associate Professor in the School of Computing and AI at **Arizona State University**. He received his Ph.D. degree from **Rutgers University** in 2016, the B.E. degree from the **University of Science and Technology of China (USTC)**, and the M.E. degree from the **Chinese Academy of Sciences (CAS)**.
-
-His teaching and research have been recognized by several honors and awards, including:
-- **US NSF CAREER Award (2021)**
-- Several **best paper (runner-up, finalist)** awards in KDD, ICDM, and SIGSpatial
-- Recognition among the **2024–2025 Stanford–Elsevier World’s Top 2% Scientists**
-- **ASU Fulton Engineering Top 5% Teaching Recognition Award** and the **Reach the Stars Award**
-
-His research involves two major efforts:
-1. **Data for AI (D4AI):** How can the structure and knowledge of data guide AI?  
-   Projects include: *D4AI-spatial, D4AI-timeseries, D4AI-causal outliers*.
-2. **AI for Data (AI4D):** How can AI augment, reprogram, and knowledgize data?  
-   Projects include: *AI4D-RL, AI4D-GenAI, AI4D-LLM*.
-
-His recent focuses include **space-time intelligence**, **data-centric AI**, and **sim2decision**, while also exploring emerging topics in **multimodal reasoning**, **LLMs**, and **agentic AI** with his students.
-
-Dr. Fu currently serves as an **Associate Editor** for *ACM Transactions on Knowledge Discovery from Data* and *ACM AI Letters*. He is deeply committed to data science education, and many of his Ph.D. graduates have become tenure-track faculty members.
-
-### Headshot
-[Dr. Yanjie Fu – Arizona State University](https://www.public.asu.edu/~yanjiefu/) -->
+[Dr. Yanjie Fu – Arizona State University](https://www.public.asu.edu/~yanjiefu/) 
+-->
 
 ## Awards
 
