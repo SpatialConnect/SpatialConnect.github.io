@@ -1,6 +1,9 @@
-# SpatialConnect2025.github.io
-SpatialConnect 2025 Website
+# SpatialConnect.github.io
+SpatialConnect Website
 
-the website is spatialconnect.github.io
+This website hosts the ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities.
 
-This website is for the 1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities.
+## Editions
+
+- [SpatialConnect 2026](https://spatialconnect.github.io/2026/) - 2nd Workshop
+- [SpatialConnect 2025](https://spatialconnect.github.io/2025/) - 1st Workshop
