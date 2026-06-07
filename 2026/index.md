@@ -61,6 +61,10 @@ Once accepted, at least one author is required to register for the workshop and 
 
 Accepted SpatialConnect’26 papers will appear in the ACM SIGSPATIAL’26 Proceedings. Therefore, we follow the same formatting requirements as ACM SIGSPATIAL’26 which can be found at <a href="https://sigspatial2026.sigspatial.org/">https://sigspatial2026.sigspatial.org/</a>. Manuscripts should be submitted in PDF format and formatted using the ACM camera-ready templates available at <a href="https://www.acm.org/publications/proceedings-template">ACM camera-ready templates</a>. SIGSPATIAL uses the Conference Proceedings Primary Article template with two-column format. Alterations to the template, especially to gain more space, will be grounds for administrative rejection without further technical review. Submissions to ACM SIGSPATIAL are single-blind – i.e., the names and affiliations of the authors should be listed in the submitted version. The author list is considered to be final after the submission deadline and no changes to the author list are allowed for accepted papers.
 
+## ACM Article Processing Charge (APC): 
+
+Under the ACM Open initiative, some papers may be required to pay an APC for inclusion in the proceedings and in the ACM Digital Library. APC requirements will depend on the type of publication and other criteria. For current APC rates and information on APC-eligible contributions, please refer to: https://authors.acm.org/open-access/acm-open-for-authors-home and https://libraries.acm.org/acmopen/article-types. Kindly ensure that authors are aware of any potential APC when communicating through your CFP and related emails.
+
 ## Important Dates
 
 * **Paper Submission:** September 1, 2026 (11:59PM (AOE))
@@ -68,6 +72,10 @@ Accepted SpatialConnect’26 papers will appear in the ACM SIGSPATIAL’26 Proce
 * **Camera Ready Paper Due:** October 5, 2026 (11:59PM (AOE))
 * **Workshop Date:** TBD
 * **Submission Site:** <a href = "https://easychair.org/conferences?conf=spatialconnect2026">https://easychair.org/conferences?conf=spatialconnect2026</a>
+
+## Past Workshops
+
+- <a href="https://spatialconnect.github.io/2025/">SpatialConnect 2025: First Workshop on Spatial Intelligence for Smart and Connected Communities</a>
 
 ## Organizing Committee
 
