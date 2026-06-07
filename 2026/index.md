@@ -63,7 +63,7 @@ Accepted SpatialConnect’26 papers will appear in the ACM SIGSPATIAL’26 Proce
 
 ## ACM Article Processing Charge (APC): 
 
-Under the ACM Open initiative, some papers may be required to pay an APC for inclusion in the proceedings and in the ACM Digital Library. APC requirements will depend on the type of publication and other criteria. For current APC rates and information on APC-eligible contributions, please refer to: https://authors.acm.org/open-access/acm-open-for-authors-home and https://libraries.acm.org/acmopen/article-types. Kindly ensure that authors are aware of any potential APC when communicating through your CFP and related emails.
+Under the ACM Open initiative, some papers may be required to pay an APC for inclusion in the proceedings and in the ACM Digital Library. APC requirements will depend on the type of publication and other criteria. For current APC rates and information on APC-eligible contributions, please refer to: <a href="https://authors.acm.org/open-access/acm-open-for-authors-home">https://authors.acm.org/open-access/acm-open-for-authors-home</a> and <a href="https://libraries.acm.org/acmopen/article-types">https://libraries.acm.org/acmopen/article-types</a>. Kindly ensure that authors are aware of any potential APC when communicating through your CFP and related emails.
 
 ## Important Dates
 

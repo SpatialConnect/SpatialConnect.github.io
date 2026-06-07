@@ -8,21 +8,21 @@
 #                                                 /____/
 #
 # Title of your website
-title: "SpatialConnect 2025"
+title: "SpatialConnect 2026"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities"
+slogan: "2nd ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "SpatialConnect 2025 explores cutting-edge research in Spatial Intelligence for Smart and Connected Communities at ACM SIGSPATIAL 2025"
+description: "SpatialConnect 2026 explores cutting-edge research in Spatial Intelligence for Smart and Connected Communities at ACM SIGSPATIAL 2025"
 
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://spatialconnect.github.io'
-baseurl: ''
+baseurl: '/2026'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -239,14 +239,14 @@ sass:
 
 # Workshop specific settings
 workshop:
-  year: 2025
+  year: 2026
   name: "SpatialConnect"
   full_name: "Spatial Intelligence for Smart and Connected Communities"
-  date: "November 3, 2025"
+  date: "TBD"
   location: "TBD"
-  submission_deadline: "TBD"
-  notification_date: "TBD"
-  camera_ready_deadline: "TBD"
+  submission_deadline: "September 1, 2026"
+  notification_date: "September 20, 2026"
+  camera_ready_deadline: "October 5, 2026"
 
 # Organizers
 organizers:
