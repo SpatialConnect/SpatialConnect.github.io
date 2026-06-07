@@ -2,9 +2,9 @@
 layout: page
 title: "Organizers"
 header:
-   title: "SpatialConnect 2026: First Workshop on Spatial Intelligence for Smart and Connected Communities"
+   title: "SpatialConnect 2026: Second Workshop on Spatial Intelligence for Smart and Connected Communities"
    title2: "SpatialConnect 2026 - TBD"
-   image_fullwidth: "TBD"
+   image_fullwidth: "Minneapolis2025.jpg"
    logo: "acmsigspatial-logo.jpg"
 ---
 
