@@ -6,7 +6,7 @@ teaser: "Half-day Workshop - November 3, 2026"
 header:
    title: "SpatialConnect 2026: First Workshop on Spatial Intelligence for Smart and Connected Communities"
    title2: "SpatialConnect 2026 - TBD"
-   image_fullwidth: "TBD"
+   image_fullwidth: "Minneapolis2025.jpg"
    logo: "acmsigspatial-logo.jpg"
 ---
 
@@ -16,7 +16,7 @@ header:
 <!-- **Time:** Half-day Afternoon Workshop   -->
 - **Time:** TBD
 <!-- **Time:** Half-day Afternoon Workshop   -->
-- **Location:** Pathways
+- **Location:** TBD
 
 ### Program Schedule
 TBD
