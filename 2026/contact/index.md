@@ -3,8 +3,8 @@ layout: page
 title: "Contacts"
 header:
    title: "SpatialConnect 2026: Second Workshop on Spatial Intelligence for Smart and Connected Communities"
-   title2: "SpatialConnect 2026 - TBD"
-   image_fullwidth: "Minneapolis2025.jpg"
+   title2: "SpatialConnect 2026 - November 3, 2026"
+   image_fullwidth: "Riverside2026.jpg"
    logo: "acmsigspatial-logo.jpg"
 ---
 
@@ -18,7 +18,7 @@ Email: guang.wang at fsu dot edu
 
 #### Xinyue Ye
 Texas A&M University, USA  
-Email: xinyue.ye at tamu dot edu  
+Email: xye10 at ua dot edu 
 
 #### Yu Yang
 Lehigh University, USA  

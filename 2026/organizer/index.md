@@ -15,8 +15,8 @@ Florida State University
 guang.wang@fsu.edu
 
 #### **Xinyue Ye**
-Texas A&M University  
-xinyue.ye@tamu.edu
+University of Alabama
+xye10@ua.edu
 
 #### **Yu Yang**
 Lehigh University  

@@ -3,8 +3,8 @@ layout: page
 title: "SpatialConnect 2026: Second Workshop on Spatial Intelligence for Smart and Connected Communities"
 header:
    title: "SpatialConnect 2026: Second Workshop on Spatial Intelligence for Smart and Connected Communities"
-   title2: "TBD"
-   image_fullwidth: "Minneapolis2025.jpg"
+   title2: "November 3, 2026"
+   image_fullwidth: "Riverside2026.jpg"
    logo: "acmsigspatial-logo.jpg"
 ---
 
@@ -70,7 +70,7 @@ Under the ACM Open initiative, some papers may be required to pay an APC for inc
 * **Paper Submission:** September 1, 2026 (11:59PM (AOE))
 * **Notification of Accept/Reject:** September 20, 2026 (11:59PM (AOE))
 * **Camera Ready Paper Due:** October 5, 2026 (11:59PM (AOE))
-* **Workshop Date:** TBD
+* **Workshop Date:** November 3, 2026
 * **Submission Site:** <a href = "https://easychair.org/conferences?conf=spatialconnect2026">https://easychair.org/conferences?conf=spatialconnect2026</a>
 
 ## Past Workshops
@@ -80,6 +80,6 @@ Under the ACM Open initiative, some papers may be required to pay an APC for inc
 ## Organizing Committee
 
 - **Guang Wang**, Florida State University
-- **Xinyue Ye**, Texas A&M University
+- **Xinyue Ye**, University of Alabama
 - **Yu Yang**, Lehigh University
 - **Yi Ding**, University of Texas at Dallas
