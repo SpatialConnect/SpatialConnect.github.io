@@ -74,10 +74,6 @@ Under the ACM Open initiative, some papers may be required to pay an APC for inc
 * **Workshop Date:** November 3, 2026
 * **Submission Site:** <a href = "https://easychair.org/conferences?conf=spatialconnect2026">https://easychair.org/conferences?conf=spatialconnect2026</a>
 
-## Past Workshops
-
-- <a href="https://spatialconnect.github.io/2025/">SpatialConnect 2025: First Workshop on Spatial Intelligence for Smart and Connected Communities</a>
-
 ## Organizing Committee
 
 - **Guang Wang**, Florida State University

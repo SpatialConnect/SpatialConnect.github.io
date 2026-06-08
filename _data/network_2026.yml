@@ -1,0 +1,11 @@
+- menu_name: "Related Links"
+
+- name: "ACM Home"
+  url: "https://www.acm.org/"
+  class: "network"
+  title: "Association for Computing Machinery"
+
+- name: "ACM SIGSPATIAL 2026"
+  url: "https://sigspatial2026.sigspatial.org/"
+  class: "network"
+  title: "ACM SIGSPATIAL 2026"
