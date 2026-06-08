@@ -3,8 +3,9 @@ layout: page
 title: "Organizers"
 header:
    title: "SpatialConnect 2026: Second Workshop on Spatial Intelligence for Smart and Connected Communities"
-   title2: "SpatialConnect 2026 - TBD"
-   image_fullwidth: "Minneapolis2025.jpg"
+   title2: "Riverside, CA, USA"
+   title3: "November 3, 2026"
+   image_fullwidth: "Riverside2026.jpg"
    logo: "acmsigspatial-logo.jpg"
 ---
 
@@ -15,7 +16,7 @@ Florida State University
 guang.wang@fsu.edu
 
 #### **Xinyue Ye**
-University of Alabama
+University of Alabama  
 xye10@ua.edu
 
 #### **Yu Yang**

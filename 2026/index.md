@@ -3,7 +3,8 @@ layout: page
 title: "SpatialConnect 2026: Second Workshop on Spatial Intelligence for Smart and Connected Communities"
 header:
    title: "SpatialConnect 2026: Second Workshop on Spatial Intelligence for Smart and Connected Communities"
-   title2: "November 3, 2026"
+   title2: "Riverside, CA, USA"
+   title3: "November 3, 2026"
    image_fullwidth: "Riverside2026.jpg"
    logo: "acmsigspatial-logo.jpg"
 ---
