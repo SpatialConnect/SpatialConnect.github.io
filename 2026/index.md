@@ -8,7 +8,6 @@ header:
    image_fullwidth: "Riverside2026.jpg"
    logo: "acmsigspatial-logo.jpg"
 ---
-
 ## Workshop Overview
 
 SpatialConnect 2026 is dedicated to exploring cutting-edge research and applications in **Spatial Intelligence** aimed at shaping **Smart and Connected Communities (S&CC)**. The workshop focuses on use-inspired, community-engaged research that addresses real-world challenges identified facing local communities through collaboration with local governments, industry, and other key stakeholders. The goal is to advance computational geospatial science to deliver actionable solutions that strengthen public services and infrastructure. We invite submissions that showcase how research problems are identified through direct stakeholder engagement or data-driven analysis of specific regions. High-quality papers should demonstrate how computational tools have been applied to improve decision-making, operational efficiency, or resource allocation. Contributions may include insights gained from fieldwork, coordination with public agencies, or partnerships with local institutions.
@@ -16,15 +15,18 @@ SpatialConnect 2026 is dedicated to exploring cutting-edge research and applicat
 ## Workshop Format
 
 <!-- **Half-day afternoon mini-conference featuring:** -->
+
 **Half-day mini-conference featuring:**
 
 - **Keynote Talk:** One Invited Distinguished Speaker
-- **Technical Sessions:** Peer-reviewed Paper Presentations  
+- **Technical Sessions:** Peer-reviewed Paper Presentations
 - **Awards:** Best Paper Award and Best Community Impact Paper Award
 
 ## Call for Papers
 
-The workshop seeks high-quality papers that have not been published in other academic outlets and are not concurrently under peer review. 
+The workshop seeks high-quality papers that have not been published in other academic outlets and are not concurrently under peer review.
+
+A paper submitted to SpatialConnect’26 must present original work not described in any prior publication that is more than 4 double-column ACM-style pages in length. A prior publication is a paper that has been accepted for presentation at a refereed conference or workshop with proceedings; or an article that has been accepted for publication in a refereed journal. If a SpatialConnect’26 submission has overlap with a prior publication, the submission must cite the prior publication, along with all other relevant published work, even if this prior publication is at or below the 4-page length threshold. For 4-page papers to appear at ACM SIGSPATIAL'26 which are not yet published, the authors must enclose a copy of their 4-page paper to their workshop submission to allow reviewers to assess the quality of the material that is not already published.
 
 **CIVIC Statement Papers (2 pages):** These papers should identify specific societal challenges in collaboration with community stakeholders. These concise papers are intended to initiate dialogue around pressing local or regional issues that could benefit from technical or scientific engagement.
 
@@ -62,7 +64,7 @@ Once accepted, at least one author is required to register for the workshop and 
 
 Accepted SpatialConnect’26 papers will appear in the ACM SIGSPATIAL’26 Proceedings. Therefore, we follow the same formatting requirements as ACM SIGSPATIAL’26 which can be found at <a href="https://sigspatial2026.sigspatial.org/">https://sigspatial2026.sigspatial.org/</a>. Manuscripts should be submitted in PDF format and formatted using the ACM camera-ready templates available at <a href="https://www.acm.org/publications/proceedings-template">ACM camera-ready templates</a>. SIGSPATIAL uses the Conference Proceedings Primary Article template with two-column format. Alterations to the template, especially to gain more space, will be grounds for administrative rejection without further technical review. Submissions to ACM SIGSPATIAL are single-blind – i.e., the names and affiliations of the authors should be listed in the submitted version. The author list is considered to be final after the submission deadline and no changes to the author list are allowed for accepted papers.
 
-## ACM Article Processing Charge (APC): 
+## ACM Article Processing Charge (APC):
 
 Under the ACM Open initiative, some papers may be required to pay an APC for inclusion in the proceedings and in the ACM Digital Library. APC requirements will depend on the type of publication and other criteria. For current APC rates and information on APC-eligible contributions, please refer to: <a href="https://authors.acm.org/open-access/acm-open-for-authors-home">https://authors.acm.org/open-access/acm-open-for-authors-home</a> and <a href="https://libraries.acm.org/acmopen/article-types">https://libraries.acm.org/acmopen/article-types</a>. Kindly ensure that authors are aware of any potential APC when communicating through your CFP and related emails.
 
