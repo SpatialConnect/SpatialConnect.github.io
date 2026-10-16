@@ -18,7 +18,7 @@ Florida State University, USA
 Email: guang.wang at fsu dot edu  
 
 #### Xinyue Ye
-Texas A&M University, USA  
+University of Alabama, USA  
 Email: xye10 at ua dot edu 
 
 #### Yu Yang
