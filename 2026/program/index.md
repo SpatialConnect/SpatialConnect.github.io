@@ -29,7 +29,7 @@ header:
 | 3:20 PM - 4:00 PM | **Coffee Break** |
 | 4:00 PM - 5:00 PM | **Keynote** |
 | 5:00 PM - 5:50 PM | **Session 2 (Paper Presentations)**<br/><br/>1. Spatial Intelligence Blind Spots: Auditing Open Geospatial Data for Urban Service Accessibility and Decision Stability <br/> *Florina Dutt, Subhajit Das* <br/><br/>2. Where Guidance Happens: Toward a Knowledge Graph of Situated Orientation and Mobility Instruction <br/> *Roland Aranas, Jina Kim, Shiven Pandya, Jiajin Huang, Hyunjoong Kim, Yao-Yi Chiang, Jonggi Hong* <br/><br/>3. Multilingual Agent System for Inclusive Wildfire Evacuation Guidance <br/> *Shruti Kulkarni, Lynn Tong, Aditi Namboodiripad, Chelyah Miller, Helen Lin, Peeyush Patel, Bogdan Bistriceanu, Diane Myung-kyung Woodbridge* <br/><br/>4. Finding Effective Vaccine Distribution Strategies: A Retroactive Study of COVID-19 in New York City <br/> *Nitin Kanchikacham, Nicole Schneider, Hanan Samet* |
-
+| 5:50 PM - 6:00 PM | **Awards and Closing** |
 
 ## Keynote Speaker
 TBD
