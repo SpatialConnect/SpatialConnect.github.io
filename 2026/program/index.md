@@ -32,7 +32,21 @@ header:
 | 5:50 PM - 6:00 PM | **Awards and Closing** |
 
 ## Keynote Speaker
+**Prof. Ryan Qi Wang**
+
+### Title
 TBD
+
+### Abstract
+TBD
+
+
+### Short Bio
+Dr. Ryan Qi Wang serves as an Associate Professor and the Vice Chair for Research in the Department of Civil and Environmental Engineering at Northeastern University. His research focuses on utilizing urban informatics to enhance the understanding, sustainability, and resilience of urban and social systems. By leveraging big data from various sources, Dr. Wang investigates the impact of large-scale crises on urban populations and explores the resilience and inequality of geosocial networks in American cities. With a wealth of experience in environmental justice communities in Boston, Dr. Wang spearheads numerous projects aimed at understanding equity and inclusiveness in human mobility, reducing air pollution exposure among vulnerable residents, and fortifying physical and social infrastructure within communities. His research has been published in prestigious interdisciplinary journals such as Nature Human Behaviour, PNAS, and Nature Ecology & Evolution, as well as disciplinary journals. Dr. Wang's work has garnered media attention from prominent outlets like Science Magazine, PNAS, and the Boston Globe.
+
+
+### Headshot
+[Prof. Ryan Qi Wang - Northeastern University](https://sites.google.com/view/uirlab/people?authuser=0)
 
 ## Awards
 

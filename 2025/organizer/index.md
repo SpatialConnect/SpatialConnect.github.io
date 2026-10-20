@@ -10,18 +10,22 @@ header:
 
 ## General Co-Chairs
 
+![Guang Wang]({{ site.baseurl }}/images/organizers/guang_wang.webp){: style="width:150px; height:150px; object-fit:cover; border-radius:50%;"}
 #### **Guang Wang**
 Florida State University  
 guang.wang@fsu.edu
 
+![Xinyue Ye]({{ site.baseurl }}/images/organizers/xinyue_ye.jpg){: style="width:150px; height:150px; object-fit:cover; border-radius:50%;"}
 #### **Xinyue Ye**
 Texas A&M University  
 xinyue.ye@tamu.edu
 
+![Yu Yang]({{ site.baseurl }}/images/organizers/yu_yang.jpg){: style="width:150px; height:150px; object-fit:cover; border-radius:50%;"}
 #### **Yu Yang**
 Lehigh University  
 yuyang@lehigh.edu
 
+![Yi Ding]({{ site.baseurl }}/images/organizers/yi_ding.jpg){: style="width:150px; height:150px; object-fit:cover; border-radius:50%;"}
 #### **Yi Ding**
 University of Texas at Dallas  
 yi.ding@utdallas.edu

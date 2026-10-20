@@ -46,7 +46,7 @@ Dr. Yanjie Fu is an associate professor in the School of Computing and AI at the
 
 
 ### Headshot
-[Dr. Yanjie Fu – Arizona State University](https://www.public.asu.edu/~yanjiefu/)
+[Prof. Yanjie Fu – Arizona State University](https://www.public.asu.edu/~yanjiefu/)
 
 <!-- ---
 title: "Can AI be the Copilot of Urban Operation and Design for Shaping Tomorrow’s Cities?"
