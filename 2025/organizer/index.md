@@ -10,25 +10,28 @@ header:
 
 ## General Co-Chairs
 
-![Guang Wang]({{ site.baseurl }}/images/organizers/guang_wang.webp){: style="width:150px; height:150px; object-fit:cover; border-radius:50%;"}
-#### **Guang Wang**
-Florida State University  
-guang.wang@fsu.edu
-
-![Xinyue Ye]({{ site.baseurl }}/images/organizers/xinyue_ye.jpg){: style="width:150px; height:150px; object-fit:cover; border-radius:50%;"}
-#### **Xinyue Ye**
-Texas A&M University  
-xinyue.ye@tamu.edu
-
-![Yu Yang]({{ site.baseurl }}/images/organizers/yu_yang.jpg){: style="width:150px; height:150px; object-fit:cover; border-radius:50%;"}
-#### **Yu Yang**
-Lehigh University  
-yuyang@lehigh.edu
-
-![Yi Ding]({{ site.baseurl }}/images/organizers/yi_ding.jpg){: style="width:150px; height:150px; object-fit:cover; border-radius:50%;"}
-#### **Yi Ding**
-University of Texas at Dallas  
-yi.ding@utdallas.edu
+<div class="row">
+  <div class="small-6 medium-3 columns text-center">
+    <img src="{{ site.baseurl }}/images/organizers/guang_wang.webp" alt="Guang Wang" style="width:150px; height:150px; object-fit:cover; border-radius:50%;">
+    <h4><strong>Guang Wang</strong></h4>
+    <p>Florida State University<br>guang.wang@fsu.edu</p>
+  </div>
+  <div class="small-6 medium-3 columns text-center">
+    <img src="{{ site.baseurl }}/images/organizers/xinyue_ye.jpg" alt="Xinyue Ye" style="width:150px; height:150px; object-fit:cover; object-position:42% 50%; border-radius:50%;">
+    <h4><strong>Xinyue Ye</strong></h4>
+    <p>Texas A&amp;M University<br>xinyue.ye@tamu.edu</p>
+  </div>
+  <div class="small-6 medium-3 columns text-center">
+    <img src="{{ site.baseurl }}/images/organizers/yu_yang.jpg" alt="Yu Yang" style="width:150px; height:150px; object-fit:cover; object-position:50% 10%; border-radius:50%;">
+    <h4><strong>Yu Yang</strong></h4>
+    <p>Lehigh University<br>yuyang@lehigh.edu</p>
+  </div>
+  <div class="small-6 medium-3 columns text-center">
+    <img src="{{ site.baseurl }}/images/organizers/yi_ding.jpg" alt="Yi Ding" style="width:150px; height:150px; object-fit:cover; border-radius:50%;">
+    <h4><strong>Yi Ding</strong></h4>
+    <p>University of Texas at Dallas<br>yi.ding@utdallas.edu</p>
+  </div>
+</div>
 
 ## Technical Program Committee
 
